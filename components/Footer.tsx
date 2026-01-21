@@ -1,7 +1,48 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Box, Typography, Link } from "@mui/material";
 
+interface Contributor {
+  username: string;
+  profileUrl: string;
+}
+
+const basePath = "/itu-web-archive";
+
 const Footer: React.FC = () => {
+  const [contributors, setContributors] = useState<Contributor[]>([]);
+
+  useEffect(() => {
+    fetch(`${basePath}/contributors.json`)
+      .then((res) => res.json())
+      .then(setContributors);
+  }, []);
+
+  const formatContributors = () => {
+    if (contributors.length === 0) {
+      return "@keepdying hayratıdır";
+    }
+
+    return (
+      <>
+        {contributors.map((contributor, index) => (
+          <React.Fragment key={contributor.username}>
+            <Link
+              href={contributor.profileUrl}
+              target="_blank"
+              rel="noopener"
+              underline="hover"
+            >
+              @{contributor.username}
+            </Link>
+            {index < contributors.length - 1 && (
+              index === contributors.length - 2 ? " ve " : ", "
+            )}
+          </React.Fragment>
+        ))} hayratıdır.
+      </>
+    );
+  };
+
   return (
     <Box
       component="footer"
@@ -18,7 +59,7 @@ const Footer: React.FC = () => {
       }}
     >
       <Typography variant="body2" color="text.secondary">
-        @keepdying ve @hadihassan04 hayratıdır. -{" "}
+        {formatContributors()} -{" "}
         <Link
           href="https://github.com/keepdying/itu-web-archive"
           target="_blank"

@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/fetch-contributors.js",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "fetch-contributors": "node scripts/fetch-contributors.js"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",

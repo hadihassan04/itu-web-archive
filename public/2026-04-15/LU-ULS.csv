@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21058,ULS 501E,Mathe.&Sta.Meth.in Tran.Eng.,Physical (Face to face),Oğuz Tengilimoğlu,INB,Monday,13:30/16:29,ULAŞTIRM_C,15,7,-,-,-,-
+1,25276,ULS 503E,Transport Infrastructure Anal.,Physical (Face to face),Abdullah Hilmi Lav,INB,Thursday,14:30/17:29,ULAŞTIRM_C,10,5,-,-,-,-
+2,21062,ULS 504E,Transportation Models,Physical (Face to face),Hüseyin Onur Tezcan,INB,Thursday,09:00/11:59,A1,15,9,-,-,-,-
+3,21063,ULS 510,Yüksek Hızlı Demiryolları,Physical (Face to face),Zübeyde Öztürk,INB,Monday,13:30/16:29,ULAŞTIRM_A,15,5,-,-,-,-
+4,21064,ULS 515E,Traffic Technics and Studies,Physical (Face to face),Kemal Selçuk Öğüt,INB,Thursday,12:30/15:29,ULAŞTIRM_A,15,4,-,-,-,-
+5,21065,ULS 516,Ulaştırmanın Çevresel Etkileri,Physical (Face to face),"Zübeyde Öztürk , Taha Yüksel",INB,Wednesday,10:00/12:59,--,15,7,-,-,-,-
+6,21066,ULS 518E,Public Transportation,Physical (Face to face),Kemal Selçuk Öğüt,INB,Tuesday,12:30/15:29,--,15,3,-,-,-,-
+7,21067,ULS 520,Trafik Yönetimi,Physical (Face to face),Hilmi Berk Çelikoğlu,INB,Tuesday,09:30/12:29,ULAŞTIRM_C,10,3,-,-,-,-
+8,21068,ULS 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Zübeyde Öztürk,INB,Tuesday,10:30/12:29,ULAŞTIRM_A,10,3,-,-,-,-
+9,21071,ULS 601E,Simulation Models Transp.Appli,Physical (Face to face),Halit Özen,INB,Monday,13:00/15:59,ULAŞTIRM_B,15,5,-,-,-,-
+10,25275,ULS 602,Karayollarının Yüzey Özellik.,Physical (Face to face),Abdullah Hilmi Lav,INB,Thursday,11:30/14:29,ULAŞTIRM_C,10,5,-,-,-,-
+11,21080,ULS 604E,Traffic Flow Theory,Physical (Face to face),Hilmi Berk Çelikoğlu,INB,Friday,14:30/17:29,ULAŞTIRM_C,10,2,-,-,-,-
+12,21082,ULS 696,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Zübeyde Öztürk,INB,Wednesday,15:30/17:29,--,10,2,INS_UL_DR/10/2 | Diğer/0/0,INS_UL_DR,-,-
+13,21083,ULS DRT,Tez Çalışması,Physical (Face to face),Zübeyde Öztürk,-,-,-/-,-,200,15,-,-,-,-
+14,21086,ULS YET,Yeterlik Aşaması,Physical (Face to face),Zübeyde Öztürk,-,-,-/-,-,200,1,-,-,-,-
+15,21069,ULS YLT,Tez Çalışması,Physical (Face to face),Zübeyde Öztürk,-,-,-/-,-,200,8,-,-,-,-

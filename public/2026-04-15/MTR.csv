@@ -1,0 +1,47 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22074,MTR 102,Makam Teorisi II,Physical (Face to face),Eren Özek,TMB TMB TMB,Tuesday Wednesday Friday,13:30/15:29 13:30/15:29 08:30/10:29,-- -- --,40,39,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+1,22076,MTR 102,Makam Teorisi II,Physical (Face to face),Elif Ahıs Yunusoğlu,TMB TMB TMB,Tuesday Wednesday Thursday,10:30/12:29 13:30/15:29 15:30/17:29,-- -- --,40,36,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+2,25090,MTR 102,Makam Teorisi II,Physical (Face to face),Nurullah Kanık,TMB TMB TMB,Monday Wednesday Friday,13:30/15:29 10:30/12:29 14:00/15:59,-- -- --,40,14,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+3,22075,MTR 104,Müzik Teorisi II,Physical (Face to face),Ayşecan Olgun,TMB TMB TMB,Monday Thursday Friday,15:30/17:29 10:30/12:29 10:30/12:29,-- -- --,30,30,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+4,22077,MTR 104,Müzik Teorisi II,Physical (Face to face),Ufuk Biçak,TMB TMB TMB,Tuesday Thursday Friday,13:30/15:29 13:30/15:29 14:00/15:59,-- -- --,30,29,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+5,22097,MTR 104,Müzik Teorisi II,Physical (Face to face),Mehmet Özkan,TMB TMB TMB,Monday Tuesday Wednesday,08:30/10:29 15:30/17:29 08:30/10:29,-- -- --,30,25,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+6,22102,MTR 106,Ritim Uygulama II,Physical (Face to face),Erkan Kanat,TMB,Wednesday,10:30/12:29,--,25,23,-,MTR_LS,-,-
+7,22157,MTR 122,Makam Teorisi II,Physical (Face to face),Ali İhsan Alemli,TMB TMB,Tuesday Wednesday,10:30/12:29 13:30/15:29,-- --,30,7,-,THO_LS,Detail,-
+8,22161,MTR 124,Müzik Teorisi II,Physical (Face to face),Orkun Zafer Özgelen,TMB TMB,Tuesday Wednesday,15:30/17:29 08:30/10:29,-- --,25,12,-,THO_LS,Detail,-
+9,22141,MTR 142,Makam Teorisi II,Physical (Face to face),Şirin Karadeniz,TMB TMB,Tuesday Friday,13:30/15:29 10:30/12:29,-- --,25,14,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS",Detail,-
+10,22143,MTR 144,Müzik Teorisi II,Physical (Face to face),Recep Gül,TMB TMB,Tuesday Wednesday,08:30/10:29 13:30/15:29,-- --,25,20,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS",Detail,-
+11,25535,MTR 201,Makam Teorisi III,Ek Sınav,Nurullah Kanık,-,-,-/-,-,0,2,-,-,Detail,-
+12,22083,MTR 202,Makam Teorisi IV,Physical (Face to face),Eren Özek,TMB TMB TMB,Tuesday Wednesday Thursday,10:30/12:29 10:30/12:29 10:30/12:29,-- -- --,35,19,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+13,22090,MTR 202,Makam Teorisi IV,Physical (Face to face),Elif Ahıs Yunusoğlu,TMB TMB TMB,Monday Wednesday Thursday,10:30/12:29 10:30/12:29 13:30/15:29,-- -- --,35,17,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+14,22098,MTR 202,Makam Teorisi IV,Physical (Face to face),Nurullah Kanık,TMB TMB TMB,Monday Wednesday Friday,15:30/17:29 08:30/10:29 10:30/12:29,-- -- --,40,28,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+15,25632,MTR 203,Müzik Teorisi III,Ek Sınav,Ayşecan Olgun,-,-,-/-,-,0,1,-,-,Detail,-
+16,22087,MTR 204,Müzik Teorisi IV,Physical (Face to face),Ayşecan Olgun,TMB TMB TMB,Monday Tuesday Friday,10:30/12:29 13:30/15:29 08:30/10:29,-- -- --,30,30,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+17,22093,MTR 204,Müzik Teorisi IV,Physical (Face to face),Ufuk Biçak,TMB TMB TMB,Tuesday Thursday Friday,15:30/17:29 15:30/17:29 10:30/12:29,-- -- --,30,26,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+18,22105,MTR 206,Müzik Teorileri Tarihi II,Physical (Face to face),Gülay Karamahmutoğlu,TMB,Wednesday,13:30/15:29,--,25,17,-,MTR_LS,-,-
+19,22116,MTR 208,Teori Uygulama II,Physical (Face to face),Süleyman Şenel,TMB,Monday,08:30/10:29,--,30,25,-,MTR_LS,-,-
+20,22166,MTR 222,Makam Teorisi IV,Physical (Face to face),Ahmet Serhat Turunç,TMB TMB,Monday Friday,08:30/10:29 08:30/10:29,-- --,25,5,-,THO_LS,Detail,-
+21,22163,MTR 224,Müzik Teorisi IV,Physical (Face to face),Orkun Zafer Özgelen,TMB TMB,Wednesday Thursday,10:30/12:29 13:30/15:29,-- --,25,3,-,THO_LS,Detail,-
+22,25537,MTR 241,Makam Teorisi III,Ek Sınav,Neşe Yeşim Altınel Çoban,-,-,-/-,-,0,1,-,-,Detail,-
+23,22145,MTR 242,Makam Teorisi IV,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB TMB,Tuesday Thursday,08:30/10:29 08:30/10:29,-- --,25,8,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS",Detail,-
+24,22146,MTR 244,Müzik Teorisi IV,Physical (Face to face),Mehmet Özkan,TMB TMB,Tuesday Wednesday,10:30/12:29 13:30/15:29,-- --,25,13,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS",Detail,-
+25,25317,MTR 301,İleri Makam Teorisi I,Physical (Face to face),Ali İhsan Alemli,TMB TMB,Tuesday Wednesday,13:30/15:29 08:30/10:29,-- --,15,2,-,MTR_LS,Detail,-
+26,22125,MTR 302,İleri Makam Teorisi II,Physical (Face to face),Ali İhsan Alemli,TMB TMB,Monday Tuesday,13:30/15:29 08:30/10:29,-- --,40,11,-,MTR_LS,Detail,-
+27,22127,MTR 304,İleri Müzik Teorisi II,Physical (Face to face),Ufuk Biçak,TMB TMB,Wednesday Friday,13:30/15:29 16:00/17:59,-- --,25,14,-,MTR_LS,Detail,-
+28,22109,MTR 306,Müzik Teorileri Tarihi IV,Physical (Face to face),Gülay Karamahmutoğlu,TMB,Wednesday,10:30/12:29,--,30,8,-,MTR_LS,-,-
+29,22112,MTR 308,Teori Uygulama IV,Physical (Face to face),Gülay Karamahmutoğlu,TMB,Thursday,10:30/12:29,--,30,8,-,MTR_LS,-,-
+30,22119,MTR 310,Ses Sistemleri II,Physical (Face to face),Nurullah Kanık,TMB,Monday,08:30/10:29,--,30,9,-,MTR_LS,-,-
+31,22071,MTR 318,Müzikte Metin Çözümlemeleri II,Physical (Face to face),Kemal Hasan Karnal,TMB,Thursday,13:30/15:29,--,30,17,-,SES_LS,-,-
+32,22070,MTR 322,Müzikte Metin Çözümlemeleri II,Physical (Face to face),Kemal Hasan Karnal,TMB,Tuesday,13:30/15:29,--,30,7,-,MTR_LS,-,-
+33,22129,MTR 402,İleri Makam Teorisi IV,Physical (Face to face),Elif Ahıs Yunusoğlu,TMB TMB,Monday Tuesday,13:30/15:29 13:30/15:29,-- --,30,5,-,MTR_LS,Detail,-
+34,22131,MTR 402,İleri Makam Teorisi IV,Physical (Face to face),Ali İhsan Alemli,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,30,8,-,MTR_LS,Detail,-
+35,22134,MTR 404,İleri Müzik Teorisi IV,Physical (Face to face),Ayşecan Olgun,TMB TMB,Tuesday Thursday,15:30/17:29 13:30/15:29,-- --,25,11,-,MTR_LS,Detail,-
+36,25542,MTR 405,Dikte ve Deşifre I,Ek Sınav,Metin Eke,-,-,-/-,-,0,1,-,-,-,-
+37,22154,MTR 406,Dikte ve Deşifre II,Physical (Face to face),Metin Eke,TMB,Thursday,15:30/17:29,--,30,11,-,MTR_LS,-,-
+38,22137,MTR 408,Eser Çözümleme II,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB,Monday,08:30/10:29,--,25,6,-,MTR_LS,-,-
+39,22068,MTR 432,Dikte Deşifre II,Physical (Face to face),Cem Ekmen,TMB,Monday,13:30/15:29,--,30,20,-,"CAB_LS, CEB_LS, THO_LS",-,-
+40,22148,MTR 434,Eser Çözümleme II,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB,Tuesday,13:30/15:29,--,25,9,-,"CAB_LS, CEB_LS",-,-
+41,22156,MTR 442,Dikte Deşifre II,Physical (Face to face),Engin Şafak Gürler,TMB TMB,Monday Wednesday,08:30/10:29 08:30/10:29,-- --,30,2,-,SES_LS,-,-
+42,25334,MTR 443,Eser Çözümleme I,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB TMB,Tuesday Thursday,10:30/12:29 15:30/17:29,-- --,15,1,-,SES_LS,-,-
+43,22150,MTR 444,Eser Çözümleme II,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB TMB,Monday Wednesday,10:30/12:29 08:30/10:29,-- --,25,8,-,SES_LS,-,-
+44,22067,MTR 492,Bitirme Çalışması,Physical (Face to face),Eren Özek,-,-,-/-,-,100,8,-,MTR_LS,-,Detail
+45,25543,MTR 492,Bitirme Çalışması,Ek Sınav,Eren Özek,-,-,-/-,-,0,1,-,-,-,Detail

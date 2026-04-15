@@ -1,0 +1,48 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23713,BLG 102E,Intr to Sci&Eng Comp (C),Physical (Face to face),Ali Çakmak,BBB BBB,Monday Thursday,13:00/14:59 13:30/16:29,123 Z-16,123,125,-,"BLG_LS, BLGE_LS, SECE_LS",-,-
+1,23716,BLG 102E,Intr to Sci&Eng Comp (C),Physical (Face to face),Ayşe Tosun Kühn,BBB BBB,Monday Thursday,15:00/16:59 13:30/16:29,123 Z-18,120,114,-,"BLG_LS, BLGE_LS, SECE_LS",-,-
+2,25554,BLG 113E,Intr.toComp.Eng.and Ethics,Ek Sınav,Burak Berk Üstündağ,-,-,-/-,-,0,1,-,-,-,-
+3,25555,BLG 210E,Engineering Mathematics,Ek Sınav,Yusuf Yaslan,-,-,-/-,-,0,1,-,-,Detail,-
+4,25586,BLG 212,Mikroişlemci Sistemleri,Ek Sınav,Ayşe Yılmazer Metin,-,-,-/-,-,0,2,-,-,Detail,-
+5,25552,BLG 212E,Microprocessor Systems,Ek Sınav,Ayşe Yılmazer Metin,-,-,-/-,-,0,2,-,-,Detail,-
+6,23727,BLG 222E,Computer Organization,Physical (Face to face),Gökhan İnce,BBB,Thursday,08:30/11:29,Z-17,90,85,-,"BLG_LS, BLGE_LS, SECE_LS",Detail,-
+7,23728,BLG 222E,Computer Organization,Physical (Face to face),Mustafa Ersel Kamaşak,BBB,Thursday,08:30/11:29,Z-19,90,92,-,"BLG_LS, BLGE_LS, SECE_LS",Detail,-
+8,23731,BLG 242E,Logic Circuits Laboratory,Physical (Face to face),Mustafa Ersel Kamaşak,BBB,Thursday,13:30/15:29,--,45,46,-,"BLG_LS, BLGE_LS",Detail,-
+9,23734,BLG 242E,Logic Circuits Laboratory,Physical (Face to face),Mustafa Ersel Kamaşak,BBB,Friday,14:00/15:59,--,45,36,-,"BLG_LS, BLGE_LS",Detail,-
+10,23735,BLG 242E,Logic Circuits Laboratory,Physical (Face to face),Muhammet Alkan,BBB,Tuesday,13:30/15:29,--,45,45,-,"BLG_LS, BLGE_LS",Detail,-
+11,23738,BLG 242E,Logic Circuits Laboratory,Physical (Face to face),Muhammet Alkan,BBB,Monday,13:30/15:29,--,45,44,-,"BLG_LS, BLGE_LS",Detail,-
+12,23750,BLG 312E,Computer Operating Systems,Physical (Face to face),Muhammet Alkan,BBB,Friday,14:00/16:59,Z-17,80,76,-,"BLG_LS, BLGE_LS, YZVE_LS",Detail,-
+13,23819,BLG 312E,Computer Operating Systems,Physical (Face to face),Yavuz Köroğlu,BBB,Wednesday,08:30/11:29,KON1,110,114,-,"BLG_LS, BLGE_LS, YZVE_LS",Detail,-
+14,23822,BLG 322E,Computer Architecture,Physical (Face to face),Ayşe Yılmazer Metin,BBB,Thursday,08:30/11:29,Z-18,90,94,-,"BLG_LS, BLGE_LS",Detail,-
+15,23824,BLG 322E,Computer Architecture,Physical (Face to face),Kadir Özlem,BBB,Thursday,08:30/11:29,Z-16,120,107,CEN_LS/60/48 | Diğer/60/59,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+16,25551,BLG 335E,Analysis of Algorithms I,Ek Sınav,İlkay Öksüz,-,-,-/-,-,0,5,-,-,Detail,-
+17,23826,BLG 336E,Analysis of Algorithms II,Physical (Face to face),İlkay Öksüz,BBB,Tuesday,08:30/11:29,Z-17,85,90,-,"BLG_LS, BLGE_LS, YZVE_LS",Detail,-
+18,23865,BLG 336E,Analysis of Algorithms II,Physical (Face to face),Mehmet Baysan,BBB,Tuesday,08:30/11:29,Z-16,85,85,-,"BLG_LS, BLGE_LS, YZVE_LS",Detail,-
+19,23867,BLG 336E,Analysis of Algorithms II,Physical (Face to face),Berna Kiraz,BBB,Tuesday,08:30/11:29,104,85,88,-,"BLG_LS, BLGE_LS, YZVE_LS",Detail,-
+20,23902,BLG 337E,Principles of Computer Comm.,Physical (Face to face),Sanem Kabadayı,BBB,Tuesday,13:30/16:29,Z-16,95,85,CEN_LS/20/13 | Diğer/75/72,"BLG_LS, BLGE_LS, CEN_LS",-,-
+21,25643,BLG 351,Mikrobilgisayar Laboratuvarı,Ek Sınav,Kadir Özlem,-,-,-/-,-,0,1,-,-,Detail,-
+22,23870,BLG 354E,Signal&Systems for Comp.Eng.,Physical (Face to face),Burak Berk Üstündağ,BBB,Monday,08:30/11:29,Z-16,80,95,-,"BLG_LS, BLGE_LS",Detail,-
+23,23872,BLG 354E,Signal&Systems for Comp.Eng.,Physical (Face to face),Yusuf Hüseyin Şahin,BBB,Monday,08:30/11:29,Z-18,80,88,-,"BLG_LS, BLGE_LS",Detail,-
+24,23874,BLG 374E,Tech. Communic.for Comp.Eng.,Physical (Face to face),Yavuz Köroğlu,BBB,Thursday,13:30/15:29,KON1,150,147,-,"BLG_LS, BLGE_LS",Detail,-
+25,25553,BLG 411E,Software Engineering,Ek Sınav,Ayşe Tosun Kühn,-,-,-/-,-,0,1,-,-,Detail,-
+26,25644,BLG 413E,System Programming,Ek Sınav,Gökhan Seçinti,-,-,-/-,-,0,1,-,-,Detail,-
+27,23894,BLG 422E,Computer Networks,Physical (Face to face),Abdül Halim Zaim,BBB,Monday,09:30/12:29,Z-23,30,21,CEN_LS/5/11 | Diğer/25/10,"BLG_LS, BLGE_LS, CEN_LS",-,-
+28,23876,BLG 442E,Tech.&Innov. Mng.for Inf.Tech.,Physical (Face to face),Gökhan İnce,BBB,Friday,14:00/16:59,Z-18,70,98,CEN_LS/5/23 | Diğer/65/75,"BLG_LS, BLGE_LS, CEN_LS",-,-
+29,23891,BLG 448E,Project Management in Eng.,Physical (Face to face),Selin Metin Doğu,BBB,Friday,08:30/11:29,Z-21,58,54,CEN_LS/5/7 | Diğer/53/47,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",-,-
+30,23892,BLG 448E,Project Management in Eng.,Physical (Face to face),Burak Sağlam,BBB,Friday,08:30/11:29,104,58,55,CEN_LS/5/6 | Diğer/53/49,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",-,-
+31,23893,BLG 448E,Project Management in Eng.,Physical (Face to face),Ethem Utku Aktaş,BBB,Tuesday,09:30/12:29,101,58,45,CEN_LS/5/6 | Diğer/53/39,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",-,-
+32,23895,BLG 449E,Prog.in Parallel&DistrubedSys.,Physical (Face to face),Deniz Turgay Altılar,BBB,Monday,10:30/12:29,Z-22,30,19,CEN_LS/5/2 | Diğer/25/17,"BLGE_LS, CEN_LS, CES_LS",Detail,-
+33,23877,BLG 454E,Learning From Data,Physical (Face to face),Mehmet Keskinöz,BBB,Wednesday,12:30/15:29,Z-17,95,60,CEN_LS/20/4 | Diğer/75/56,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+34,23897,BLG 460E,Secure Programming,Physical (Face to face),Mehmet Tahir Sandıkkaya,BBB,Friday,14:00/15:59,Z-20,50,61,CEN_LS/5/7 | Diğer/45/54,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+35,23901,BLG 463E,Innov. Leadership in Comp.Eng.,Physical (Face to face),Alper Almelek,BBB,Thursday,09:30/12:29,101,40,22,-,"BLG_LS, BLGE_LS, YZVE_LS",-,-
+36,23898,BLG 468E,Object Oriented Model.&Design,Physical (Face to face),Feza Buzluca,BBB,Wednesday,08:30/10:29,Z-21,45,63,CEN_LS/5/7 | Diğer/40/56,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+37,23896,BLG 475E,Software Quality and Testing,Physical (Face to face),Ayşe Tosun Kühn,BBB,Thursday,09:30/11:29,Z-21,50,47,CEN_LS/5/6 | Diğer/45/41,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+38,23899,BLG 477E,Multimedia Computing,Physical (Face to face),Uluğ Bayazıt,BBB,Tuesday,13:30/15:29,102,30,14,CEN_LS/5/0 | Diğer/25/14,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+39,23900,BLG 478E,Network Security,Physical (Face to face),Şerif Bahtiyar,BBB,Tuesday,08:30/10:29,Z-20,55,92,CEN_LS/5/29 | Diğer/50/63,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+40,25266,BLG 481E,Al Accelerators Lab.,Physical (Face to face),Mustafa Ersel Kamaşak,BBB BBB,Wednesday Thursday,13:30/15:29 15:30/17:29,-- --,45,32,CEN_LS/10/0 | Diğer/35/32,"BLG_LS, BLGE_LS, CEN_LS",Detail,-
+41,25311,BLG 483E,Artificial Intelligence Aided Computer Engineering,Physical (Face to face),Yusuf Hüseyin Şahin,BBB,Monday,13:30/16:29,Z-19,50,75,CEN_LS/10/0 | Diğer/40/75,"BLG_LS, BLGE_LS",Detail,-
+42,25410,BLG 483E,Artificial Intelligence Aided Computer Engineering,Physical (Face to face),Nizamettin Aydın,BBB,Monday,13:30/16:29,Z-21,60,47,-,CEN_LS,Detail,-
+43,23903,BLG 4901,Bilgisayar Müh. Tasarımı I,Physical (Face to face),Yusuf Hüseyin Şahin,-,-,-/-,-,200,5,-,"BLG_LS, BLGE_LS",Detail,Detail
+44,23904,BLG 4901E,Computer Engineering Design I,Physical (Face to face),Yusuf Hüseyin Şahin,-,-,-/-,-,200,36,-,"BLG_LS, BLGE_LS, CEN_LS",Detail,Detail
+45,23905,BLG 4902,Bilgisayar Mühen. Tasarımı II,Physical (Face to face),Yusuf Hüseyin Şahin,-,-,-/-,-,200,1,-,"BLG_LS, BLGE_LS",Detail,-
+46,23907,BLG 4902E,Computer Engineering Design II,Physical (Face to face),Yusuf Hüseyin Şahin,-,-,-/-,-,200,197,-,"BLG_LS, BLGE_LS, CEN_LS",Detail,-

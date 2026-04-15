@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22324,ETK 101,Mühendislik Etiği,Physical (Face to face),Türker Hüdaverdi,MDB,Wednesday,13:30/14:29,A101,80,62,-,"JEF_LS, MAD_LS",-,-
+1,22576,ETK 101,Mühendislik Etiği,Physical (Face to face),Yüksel Örgün Tutay,MDB,Wednesday,08:30/09:29,A101,70,32,-,JEO_LS,-,-
+2,23254,ETK 101,Mühendislik Etiği,Physical (Face to face),Ahmet Duran Şahin,MEDC,Monday,14:30/15:29,ZA2,60,61,-,"IBM_LS, MTO_LS",-,-
+3,22780,ETK 101E,Engineering Ethics,Physical (Face to face),İbrahim Metin Mıhçakan,MDB,Wednesday,13:30/14:29,B204,80,56,-,"PET_LS, PETE_LS",-,-

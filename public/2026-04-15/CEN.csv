@@ -1,0 +1,13 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25204,CEN 102E,Intr to Sci&Eng Comp (C),Physical (Face to face),Meriç Yücel,MED BBB,Wednesday Friday,09:30/12:29 14:30/16:29,B37 104,60,36,-,CEN_LS,-,-
+1,25205,CEN 112E,Discrete Mathematics,Physical (Face to face),Mehmet Ali Sarıkaya,MED,Friday,08:30/11:29,B33,50,33,-,CEN_LS,-,-
+2,25206,CEN 202E,Numerical Methods in CE,Physical (Face to face),Muhammed Lütfi Yarar,MED,Tuesday,09:30/12:29,BIL.LAB.2,50,32,-,CEN_LS,Detail,-
+3,25207,CEN 222E,Computer Organization,Physical (Face to face),Muhammet Alkan,MED,Friday,09:30/12:29,B34,50,29,-,CEN_LS,Detail,-
+4,25208,CEN 242E,Logic Circuits Laboratory,Physical (Face to face),Vecdi Emre Levent,BBB,Thursday,13:30/15:29,Z-20,50,36,-,CEN_LS,Detail,-
+5,25209,CEN 252E,Object Oriented Programming,Physical (Face to face),Ömer Özyıldırım,MED,Thursday,09:30/12:29,BIL.LAB.1,50,28,-,CEN_LS,Detail,-
+6,25210,CEN 311E,Formal Languages and Automata,Physical (Face to face),Sajjad Nematzadeh Mıondoab,BBB,Wednesday,12:30/15:29,Z-16,65,61,-,CEN_LS,Detail,-
+7,25211,CEN 312E,Computer Operating Systems,Physical (Face to face),Nizamettin Aydın,BBB,Friday,14:00/16:59,Z-16,60,56,-,CEN_LS,Detail,-
+8,25457,CEN 335E,Analysis of Algorithms I,Physical (Face to face),Mehmet Ali Sarıkaya,MED,Tuesday,13:30/16:29,B37,50,34,-,CEN_LS,Detail,-
+9,25387,CEN 336E,Analysis of Algorithms II,Physical (Face to face),Deniz Turgay Altılar,BBB,Tuesday,08:30/11:29,Z-23,60,22,-,CEN_LS,Detail,-
+10,25252,CEN 354E,Signal&Systems for Comp.Eng.,Physical (Face to face),İbrahim Papila,MED,Friday,09:30/12:29,B36,60,46,-,CEN_LS,Detail,-
+11,25253,CEN 374E,Tech. Communic.for Comp.Eng.,Physical (Face to face),Eşref Adalı,BBB,Thursday,13:30/15:29,104,60,38,-,CEN_LS,Detail,-

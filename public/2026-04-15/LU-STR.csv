@@ -1,0 +1,13 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22205,STR 506,Yapıt Çözümlemeleri,Physical (Face to face),Aslıhan Erkmen Birkandan,FEB,Tuesday,09:00/11:59,--,20,4,-,-,-,-
+1,24785,STR 508E,Contemporary Art,Physical (Face to face),Ebru Belgin Yetişkin Doğrusöz,FEB,Wednesday,09:30/12:29,--,20,4,-,-,-,-
+2,22207,STR 521,Sanat Teorileri,Physical (Face to face),Kerem Eksen,FEB,Tuesday,14:30/17:29,--,20,6,-,-,-,-
+3,22208,STR 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Aslıhan Erkmen Birkandan,FEB,Monday,09:00/10:59,--,20,1,-,-,-,-
+4,22209,STR 606E,Relations.Between Indus.&Art,Physical (Face to face),Çiğdem Kaya,MMB,Friday,09:30/12:29,136A,20,10,-,-,-,-
+5,24981,STR 618,Sanat ve Düşünce,Physical (Face to face),Oğuz Haşlakoğlu,MMB,Thursday,13:30/16:29,309,20,10,-,-,-,-
+6,24757,STR 619,Sanat Tarihi.Seçilmiş Konular,Physical (Face to face),Deniz Çalışır Pençe,MMB,Friday,14:00/16:59,136A,20,6,-,-,-,-
+7,22210,STR 620E,Ancient Philosophy&Neoclas.Art,Physical (Face to face),Geoff Bove,MMB,Monday,14:00/16:59,317,20,8,-,-,-,-
+8,22211,STR 696,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Zeynep Kuban Tokgöz,MMB,Wednesday,15:30/17:29,--,20,1,STR_ST_DR/20/1 | Diğer/0/0,STR_ST_DR,-,-
+9,22212,STR DRT,Tez Çalışması,Physical (Face to face),Aslıhan Erkmen Birkandan,-,-,-/-,-,200,9,-,-,-,-
+10,22213,STR YET,Yeterlik Aşaması,Physical (Face to face),Aslıhan Erkmen Birkandan,-,-,-/-,-,200,1,-,-,-,-
+11,22214,STR YLT,Tez Çalışması,Physical (Face to face),Aslıhan Erkmen Birkandan,-,-,-/-,-,200,4,-,-,-,-

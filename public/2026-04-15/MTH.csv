@@ -1,0 +1,15 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24840,MTH 102,Calculus II,Physical (Face to face),Samet Yücel Kadıoğlu,FEB FEB,Monday Tuesday,15:30/17:29 08:30/11:29,B1_428 B1_428,35,22,-,"MBI_LS, SBL_LS",Detail,-
+1,24917,MTH 104,Calculus II,Physical (Face to face),Ahmet Kırış,INB INB,Monday Tuesday,15:30/17:29 08:30/11:29,A101 A101,30,20,-,SED_LS,Detail,-
+2,24918,MTH 105,Calculus I,Physical (Face to face),Saadet Seher Özer,FEB,Tuesday,08:30/11:29,L200,20,11,-,SIS_LS,-,-
+3,24919,MTH 106,Calculus II,Physical (Face to face),Burak Yıldıran Stodolsky,FEB,Tuesday,08:30/11:29,D306,40,27,-,SIS_LS,Detail,-
+4,24921,MTH 108,Calculus II,Physical (Face to face),Sezgin Altay Demirbağ,INB INB,Monday Tuesday,14:30/17:29 08:30/11:29,A105 A105,40,37,-,"SGI_LS, SIN_LS",Detail,-
+5,25352,MTH 118,Mathematics II,Physical (Face to face),Selim Aksoy,DZB DZB,Monday Wednesday,14:30/17:29 13:30/15:29,-- --,0,3,-,"MEN_LS, MTM_LS",Detail,-
+6,24922,MTH 132,Mathematics II,Physical (Face to face),Soner Aydınlık,EEB EEB,Monday Tuesday,15:30/17:29 08:30/11:29,1301 1301,40,35,-,EHN_LS,Detail,-
+7,20860,MTH 204,Linear Algebra,Physical (Face to face),Güler Arsan,FEB,Monday,14:30/17:29,D101,30,15,-,ARC_LS,-,-
+8,23600,MTH 271,Probability and Statistics,Physical (Face to face),Tuba Yılmaz Abdolsaheb,EEB,Friday,08:30/11:29,5103,45,41,-,EHN_LS,-,-
+9,24930,MTH 401E,RISC-V Architecture &Processor,Virtual (Online),"Hasan Erdem Yantır , Kamil Karaçuha",EEB,Wednesday,12:30/15:29,5203,90,81,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,Detail
+10,25234,MTH 402E,Flight Mechanics and Applications,Virtual (Online),İlker Üstoğlu,EEB,Wednesday,08:30/11:29,--,50,40,-,"KOM_LS, KOME_LS",-,Detail
+11,24932,MTH 403E,Fnc.Safety&PwrtrainAppAutoInd,Virtual (Online),İlker Üstoğlu,EEB,Tuesday,08:30/11:29,--,60,60,-,"ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,Detail
+12,25235,MTH 405E,Flight Control Systems,Virtual (Online),İlker Üstoğlu,EEB,Friday,08:30/11:29,--,50,33,-,"KOM_LS, KOME_LS",-,Detail
+13,25400,MTH 407,Otomatik Hedef İzleme Temelleri,Physical (Face to face),Burcu Tunga,FEB,Friday,09:30/12:29,D202,43,43,-,"FIZ_LS, MAT_LS",Detail,-

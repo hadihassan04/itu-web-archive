@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22685,DNK 201,Dinamik,Physical (Face to face),Reha Artan,INB,Tuesday,13:30/16:29,A201,58,59,-,INS_LS,Detail,-
+1,25304,DNK 201,Dinamik,Physical (Face to face),Erol Demirkan,INB,Thursday,09:30/12:29,A203,70,72,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",Detail,-
+2,22687,DNK 201E,Dynamics,Physical (Face to face),Pelin Gündeş Bakır,INB,Monday,13:30/16:29,A301,58,68,-,"INS_LS, INSE_LS, NAE_LS",Detail,-
+3,25236,DNK 201E,Dynamics,Physical (Face to face),Tuğba Kuru,EEB,Friday,14:00/16:59,5104,70,74,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-

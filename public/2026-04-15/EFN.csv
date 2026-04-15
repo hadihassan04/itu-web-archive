@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25145,EFN 202E,Intermediate Macroeconomics,Physical (Face to face),Derya Gültekin,MSB,Friday,14:30/18:29,113,40,29,-,EFN_LS,Detail,-
+1,25146,EFN 205E,Business Finance,Physical (Face to face),Ahmet Göncü,MSB,Thursday,09:30/12:29,212,40,32,-,EFN_LS,-,-
+2,25201,EFN 210E,Financial Accounting,Physical (Face to face),Ömer Haksever,MSB,Friday,09:30/12:29,B11,50,27,-,"EFN_LS, EFN_YD",-,-
+3,25150,EFN 302E,Econometrics II,Physical (Face to face),Gülen Derya Zayim Gider,MSB,Monday,08:30/12:29,210,40,33,-,"EFN_LS, EFN_YD",Detail,-
+4,25202,EFN 308E,Financial Econometrics,Physical (Face to face),Rofaida Benotsmane,MSB,Friday,14:30/17:29,B01,40,34,-,EFN_LS,Detail,-
+5,25203,EFN 309E,Investment and Portfolio Mng.,Physical (Face to face),Tayfun Özkan,MSB,Tuesday,14:30/17:29,B01,50,47,-,EFN_LS,Detail,-
+6,25147,EFN 312E,International Finance,Physical (Face to face),Serdar Altay,MSB,Friday,09:30/12:29,210,40,32,-,EFN_LS,Detail,-
+7,25149,EFN 418E,Machine Learning for Bus.Decis,Physical (Face to face),Zehra Atik,MSB,Thursday,14:30/17:29,B04,40,29,-,EFN_LS,Detail,-
+8,25148,EFN 432E,Labor Economics,Physical (Face to face),Şerife Genç İleri,MSB,Thursday,09:30/12:29,113,40,36,-,EFN_LS,Detail,-
+9,25151,EFN 4902E,Graduation Project,Physical (Face to face),Bülent Güloğlu,-,-,-/-,-,100,7,-,EFN_LS,Detail,Detail

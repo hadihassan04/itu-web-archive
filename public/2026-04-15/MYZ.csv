@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23249,MYZ 301,Mühendislik için Yapay Zekaya Giriş,Physical (Face to face),Mustafa Berker Yurtseven,KMB,Thursday,09:30/12:29,D203,30,19,-,"GID_LS, KMM_LS, MET_LS",Detail,-
+1,25216,MYZ 302E,Artificial Intelligence for Mechanical Engineering,Physical (Face to face),"Hülya Yalçın , Ersan Üstündağ",MKB MKB,Monday Thursday,15:30/17:29 15:30/16:29,D355 D355,30,20,-,"IML_LS, MAK_LS",Detail,-
+2,22494,MYZ 304E,Artificial Intelligence in Environmental Engineering,Physical (Face to face),Sadullah Levent Kuzu,INB,Monday,08:30/10:29,B307,30,28,-,"CEV_LS, CEVE_LS",-,-
+3,22812,MYZ 305,Harita Mühendisliğinde Yapay Zeka,Physical (Face to face),Caner Güney,INB,Thursday,08:30/10:29,A102,30,9,-,"GEO_LS, HTA_LS",-,-
+4,22818,MYZ 305E,Artificial Intelligence in Geomatics Engineering,Physical (Face to face),Muhammed Oğuzhan Mete,INB,Tuesday,12:30/14:29,B305,30,16,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+5,23620,MYZ 307,Elektrik-Elektronik Mühendisleri için Makine Öğrenmesi,Physical (Face to face),Bilge Günsel,EEB,Tuesday,12:30/15:29,5205,73,46,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+6,23622,MYZ 307E,Machine Learning for Electrical and Electronics Engineering,Physical (Face to face),Sümeye Nur Karahan,EEB,Tuesday,12:30/15:29,4104,90,90,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOME_LS",Detail,-
+7,23577,MYZ 309E,Artificial Intelligence in Mathematical Engineering,Physical (Face to face),Muhammed Kurulay,FEB,Tuesday,08:30/11:29,L400,25,8,-,MAT_LS,Detail,-
+8,23518,MYZ 311E,Artificial Intelligence and Machine Learning in Chemistry,Physical (Face to face),Berna Doğan,FEB,Friday,14:00/16:59,L400,20,13,-,"KIM_LS, KIM_YD, KIME_LS",Detail,-

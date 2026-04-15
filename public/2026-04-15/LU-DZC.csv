@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21049,DZC 503,Denizcilikte İnsan Faktörü,Physical (Face to face),Leyla Tavacıoğlu,DZB-AKD,Monday,08:30/11:29,--,20,18,-,-,-,-
+1,21050,DZC 509,Denizcilik Çalışma.Araş.Yön.,Physical (Face to face),Pelin Bolat,DZB-AKD,Wednesday,08:30/11:29,--,25,21,-,-,-,-
+2,21051,DZC 511,Ulaştırma&Denizcilik Politika.,Physical (Face to face),Fırat Bolat,DZB-AKD,Wednesday,11:30/14:29,--,25,23,-,-,-,-
+3,21054,DZC 514,Fizibilite Analizi,Physical (Face to face),Bayram Barış Kızılsaç,DZB-AKD,Monday,14:30/17:29,--,20,15,-,-,-,-
+4,21052,DZC 516,Marina Yönetimi,Physical (Face to face),Arda Özkan,DZB-AKD,Thursday,14:30/17:29,--,20,21,-,-,-,-
+5,21053,DZC 520,Denizel Enerji Güvenliği,Physical (Face to face),Arda Özkan,DZB-AKD,Wednesday,14:30/17:29,--,20,15,-,-,-,-
+6,21055,DZC 521,Liman Emniyeti ve Güvenliği,Physical (Face to face),Serdar Kum,DZB-AKD,Tuesday,14:30/17:29,--,20,7,-,-,-,-
+7,21057,DZC 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Gizem Kayişoğlu,DZB-AKD,Thursday,11:30/13:29,--,20,12,-,-,-,-
+8,21060,DZC 602E,Maritime Environmental Manag.,Physical (Face to face),Tanzer Satır,DZB-AKD,Thursday,11:30/14:29,--,10,2,-,-,-,-
+9,21841,DZC 604,Denizcilik Eğitim.Ölç.&Değer.,Physical (Face to face),Gizem Kayişoğlu,DZB,Tuesday,08:30/11:29,--,10,2,-,-,-,-
+10,21073,DZC 610,Denizci.Kriz Müda.Biliş.Mode,Physical (Face to face),Leyla Tavacıoğlu,DZB-AKD,Wednesday,11:30/14:29,--,10,6,-,-,-,-
+11,21061,DZC 612E,Energy Manag.in Marit.Sector,Physical (Face to face),Veysi Başhan,DZB-AKD,Tuesday,14:30/17:29,--,10,4,-,-,-,-
+12,21074,DZC 615,Deniz Lojistiğinde Sürdürüle.,Physical (Face to face),Fırat Bolat,DZB-AKD,Wednesday,08:30/11:29,--,10,3,-,-,-,-
+13,21075,DZC 696E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Pelin Bolat,DZB-AKD,Wednesday,15:30/17:29,--,10,8,DZC_DN_DR/10/8 | Diğer/0/0,DZC_DN_DR,-,-
+14,21076,DZC DRT,Tez çalışması,Physical (Face to face),Gizem Kayişoğlu,-,-,-/-,-,200,17,-,-,-,-
+15,21078,DZC YET,Yeterlik Aşaması,Physical (Face to face),Gizem Kayişoğlu,-,-,-/-,-,200,1,-,-,-,-
+16,21059,DZC YLT,Tez çalışması,Physical (Face to face),Gizem Kayişoğlu,-,-,-/-,-,200,23,-,-,-,-

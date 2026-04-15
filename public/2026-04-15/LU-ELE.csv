@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23133,ELE 503,Aktif Devre Tasarım,Physical (Face to face),Emre Özer,EEB,Friday,09:30/12:29,5205,40,34,-,-,-,-
+1,25467,ELE 504E,Digital MOS Inte.Circuit Des.,Physical (Face to face),Mustafa Altun,undeclared,Wednesday,09:00/11:59,--,0,13,-,-,-,-
+2,23117,ELE 505E,L-volt. Anal. Integ.Cir.Desig,Physical (Face to face),Hacer Atar Yıldız,EEB,Tuesday,13:30/16:29,5206,30,8,-,-,-,-
+3,25465,ELE 505E,L-volt. Anal. Integ.Cir.Desig,Physical (Face to face),Hacer Atar Yıldız,undeclared,Friday,14:00/16:59,--,0,9,-,-,-,-
+4,23102,ELE 511,Doğrusal Olmayan Devr.Sis.Kaos,Physical (Face to face),Neslihan Serap Şengör,EEB,Tuesday,08:30/11:29,--,20,6,-,-,-,-
+5,23100,ELE 512E,Advanced Analog IC Design,Physical (Face to face),Mustafa Berke Yelten,EEB,Friday,09:30/12:29,5104,40,33,-,-,-,-
+6,25468,ELE 512E,Advanced Analog IC Design,Physical (Face to face),İsmail Serdar Özoğuz,undeclared,Wednesday,13:00/15:59,--,0,24,-,-,-,-
+7,23114,ELE 514,Sistem Teorisi,Physical (Face to face),Mürvet Kırcı,EEB,Tuesday,13:30/16:29,5305,30,12,-,-,-,-
+8,25479,ELE 514,Sistem Teorisi,Physical (Face to face),Müştak Erhan Yalçın,undeclared,Thursday,13:00/15:59,--,0,32,-,-,-,-
+9,23119,ELE 519,Elekt.Müh.Matematiksel Yönt.,Physical (Face to face),Metin Hüner,EEB,Friday,08:30/11:29,5203,30,13,-,-,-,-
+10,23109,ELE 525,Gömülü İşletim Sistem.Tasarım,Physical (Face to face),Tamer Ölmez,EEB,Wednesday,12:30/15:29,5206,30,15,-,-,-,-
+11,23127,ELE 526E,Special Topics in Electronics Engineering,Physical (Face to face),Berk Omuz,EEB,Thursday,10:00/12:59,5206,30,4,-,-,-,-
+12,23104,ELE 529E,Embedded Systems,Physical (Face to face),Özen Özkaya,EEB,Friday,14:30/17:29,5201,50,48,-,-,-,-
+13,23125,ELE 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Müştak Erhan Yalçın,EEB,Tuesday,13:30/15:29,5107,30,25,-,-,-,-
+14,25461,ELE 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Serkan Şimşek,undeclared,Friday,09:00/10:59,--,0,13,-,-,-,-
+15,25478,ELE 602E,Basic Processes in VLSI Tech.,Physical (Face to face),Mustafa Berke Yelten,undeclared,Thursday,09:00/11:59,--,0,6,-,-,-,-
+16,25318,ELE 612E,Design of Integ. Data Converte,Physical (Face to face),Tufan Coşkun Karalar,EEB,Wednesday,12:30/15:29,5103,25,15,-,-,-,-
+17,23106,ELE 617E,VLSI Digital Signal Proc.Sys.,Physical (Face to face),Müştak Erhan Yalçın,EEB,Wednesday,09:00/11:59,5106,30,14,-,-,-,-
+18,23120,ELE 696,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Nil Banu Tarım,EEB,Wednesday,15:30/17:29,--,8,1,-,-,-,-
+19,23153,ELE DRT,Tez Çalışması,Physical (Face to face),Müştak Erhan Yalçın,-,-,-/-,-,200,20,-,-,-,-
+20,23155,ELE YET,Yeterlik Aşaması,Physical (Face to face),Müştak Erhan Yalçın,-,-,-/-,-,200,2,-,-,-,-
+21,23157,ELE YLT,Tez Çalışması,Physical (Face to face),Müştak Erhan Yalçın,-,-,-/-,-,200,108,-,-,-,-

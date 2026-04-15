@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23376,KOM 502E,Fault Tolerant Cont.Systems,Physical (Face to face),Fikret Çalışkan,EEB,Thursday,13:30/16:29,Z1,50,22,-,-,-,-
+1,23379,KOM 503,Gerçek Zamanda Kontrol,Physical (Face to face),Osman Kaan Erol,EEB,Tuesday,13:30/16:29,5207,50,10,-,-,-,-
+2,23385,KOM 505E,Probability Theory&Stochast.Pr,Physical (Face to face),Mustafa Doğan,EEB,Friday,14:00/16:59,4104,85,82,-,-,-,-
+3,25462,KOM 505E,Probability Theory&Stochast.Pr,Physical (Face to face),Mehmet Akif Yazıcı,undeclared,Friday,09:00/11:59,--,0,13,-,-,-,-
+4,25408,KOM 509E,Design of Discrete Cont.Sys.,Physical (Face to face),Mahdi Baradarannia,EEB,Friday,08:30/11:29,5106,30,2,-,-,-,-
+5,23389,KOM 510E,Optimal Control Theory,Physical (Face to face),Farzad Hashemzadeh,EEB,Monday,08:30/11:29,4104,50,50,-,-,-,-
+6,23391,KOM 511,Uyarlamalı Kontrol Sistemleri,Physical (Face to face),Yaprak Yalçın,EEB,Monday,13:30/16:29,5101,50,30,-,-,-,-
+7,23461,KOM 513E,Modelling& Kontrol Of Robots,Physical (Face to face),Hakan Temeltaş,EEB,Monday,12:30/15:29,5107,50,36,-,-,-,-
+8,23463,KOM 515E,Underactuated Robotics,Physical (Face to face),Sıddık Murat Yeşiloğlu,EEB,Wednesday,12:30/15:29,Z2,50,5,-,-,-,-
+9,23464,KOM 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Farzad Hashemzadeh,EEB,Thursday,10:30/12:29,1303,50,19,-,-,-,-
+10,23359,KOM 604E,Robust Control Systems,Physical (Face to face),Mehmet Turan Söylemez,EEB,Wednesday,08:30/11:29,5206,20,13,-,-,-,-
+11,23360,KOM 605E,Multivariable Control Theory,Physical (Face to face),Fikret Çalışkan,EEB,Monday,13:30/16:29,5206,20,6,-,-,-,-
+12,23363,KOM 615E,Model.&Cont.of Dist.Param.Sy.,Physical (Face to face),Mustafa Doğan,EEB,Friday,08:30/11:29,5206,20,9,-,-,-,-
+13,23365,KOM 696,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Ahmet Onat,EEB,Wednesday,15:30/17:29,5106,20,2,-,-,-,-
+14,23369,KOM DRT,Tez Çalışması,Physical (Face to face),Ahmet Onat,-,-,-/-,-,200,13,-,-,-,-
+15,23371,KOM YET,Yeterlik Aşaması,Physical (Face to face),Ahmet Onat,-,-,-/-,-,200,4,-,-,-,-
+16,23465,KOM YLT,Tez Çalışması,Physical (Face to face),Ahmet Onat,-,-,-/-,-,200,42,-,-,-,-

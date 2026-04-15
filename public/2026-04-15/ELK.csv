@@ -1,0 +1,72 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25656,ELK 107E,Int to Sci.&Eng.Comp. (Python),Ek Sınav,Ali Sinan Çabuk,-,-,-/-,-,0,1,-,-,Detail,-
+1,25510,ELK 214,Elektromek. Enerji Dönüş.Tem.,Ek Sınav,Duygu Bayram Kara,-,-,-/-,-,0,1,-,-,-,-
+2,21659,ELK 221,Elektrik Mühen. Temelleri,Physical (Face to face),Fatma Gül Bağrıyanık,EEB,Monday,12:30/15:29,5205,40,12,-,"GID_LS, IML_LS, ISL_LS, KMM_LS, MAK_LS, MET_LS, TEK_LS, UCK_LS, UZB_LS",-,-
+3,21660,ELK 221,Elektrik Mühen. Temelleri,Physical (Face to face),Ali Sinan Çabuk,EEB,Wednesday,08:30/11:29,4104,40,3,-,"GID_LS, IML_LS, ISL_LS, KMM_LS, MAK_LS, MET_LS, TEK_LS, UCK_LS, UZB_LS",-,-
+4,21661,ELK 221E,Fundamentals of Electric. Eng.,Physical (Face to face),Cavit Fatih Küçüktezcan,EEB,Thursday,12:30/15:29,1303,50,20,-,"CHZE_LS, GID_LS, GIDE_LS, IML_LS, IMLE_LS, ISL_LS, ISLE_LS, KMM_LS, KMME_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, PETE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS",-,-
+5,21664,ELK 221E,Fundamentals of Electric. Eng.,Physical (Face to face),Ali Sinan Çabuk,EEB,Friday,08:30/11:29,2102,50,42,-,"CHZE_LS, GID_LS, GIDE_LS, IML_LS, IMLE_LS, ISL_LS, ISLE_LS, KMM_LS, KMME_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, PETE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS",-,-
+6,21678,ELK 221E,Fundamentals of Electric. Eng.,Physical (Face to face),Zehra Elif Batman,EEB,Wednesday,08:30/11:29,5101,60,47,-,"CHZE_LS, GID_LS, GIDE_LS, IML_LS, IMLE_LS, ISL_LS, ISLE_LS, KMM_LS, KMME_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, PETE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS",-,-
+7,21681,ELK 226,Elektrik-Elektronik Müh. Tem.,Physical (Face to face),Ali Saffet Altay,EEB,Wednesday,08:30/11:29,5103,60,59,-,"IML_LS, MAK_LS",Detail,-
+8,21683,ELK 226,Elektrik-Elektronik Müh. Tem.,Physical (Face to face),Ali Sinan Çabuk,EEB,Tuesday,08:30/11:29,6309,60,58,-,"IML_LS, MAK_LS",Detail,-
+9,21687,ELK 226,Elektrik-Elektronik Müh. Tem.,Physical (Face to face),Murat İmeryüz,MKB,Friday,08:30/11:29,A363,80,85,-,"IML_LS, MAK_LS",Detail,-
+10,21692,ELK 226,Elektrik-Elektronik Müh. Tem.,Physical (Face to face),Ali Saffet Altay,EEB,Friday,08:30/11:29,2104,60,57,-,"IML_LS, MAK_LS",Detail,-
+11,21694,ELK 226E,Fund.of Electri.& Electro.Eng.,Physical (Face to face),Yusuf Yaşa,EEB,Wednesday,08:30/11:29,5105,50,4,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detail,-
+12,21697,ELK 234E,Thermodynamics &Hydrodynamics,Physical (Face to face),Ahmet Cansız,EEB,Tuesday,12:30/15:29,5201,60,49,EEE_LS/5/3 | Diğer/55/46,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+13,25523,ELK 307,Aydınlatma Tekniği,Ek Sınav,Canan Karatekin,-,-,-/-,-,0,1,-,-,-,-
+14,21706,ELK 308E,Comp. Networks for Power Syst.,Physical (Face to face),Cavit Fatih Küçüktezcan,EEB,Monday,08:30/11:29,5303,50,26,EEE_LS/5/3 | Diğer/45/23,"EEE_LS, EHS_LS, ELK_LS, ELKE_LS",-,-
+15,21709,ELK 312,Yüksek Gerilim Tekniği,Physical (Face to face),Şükran Emel Önal,EEB,Thursday,08:30/11:29,5304,55,58,-,ELK_LS,-,-
+16,21714,ELK 312,Yüksek Gerilim Tekniği,Physical (Face to face),Özcan Kalenderli,EEB,Thursday,08:30/11:29,5202,55,56,-,ELK_LS,-,-
+17,21716,ELK 312E,High Voltage Technique,Physical (Face to face),Suat İlhan,EEB,Thursday,08:30/11:29,5302,70,72,EEE_LS/5/7 | Diğer/65/65,"EEE_LS, ELK_LS, ELKE_LS",-,-
+18,25658,ELK 313,Enerji İletim Hatları,Ek Sınav,Hatice Lale Zeynelgil,-,-,-/-,-,0,2,-,-,-,-
+19,21718,ELK 322,Enerji İletim Sistemleri,Physical (Face to face),Canan Karatekin,EEB,Monday,12:30/15:29,5307,45,48,-,ELK_LS,Detail,-
+20,21720,ELK 322,Enerji İletim Sistemleri,Physical (Face to face),Emine Ayaz,EEB,Monday,12:30/15:29,5301,45,48,-,ELK_LS,Detail,-
+21,21722,ELK 322E,Power Transmission Systems,Physical (Face to face),Veysel Murat İstemihan Genç,EEB,Monday,12:30/15:29,5303,50,50,EEE_LS/5/0 | Diğer/45/50,"EEE_LS, ELK_LS, ELKE_LS",Detail,-
+22,21724,ELK 322E,Power Transmission Systems,Physical (Face to face),Zehra Elif Batman,EEB,Monday,12:30/15:29,5305,50,57,EEE_LS/5/5 | Diğer/45/52,"EEE_LS, ELK_LS, ELKE_LS",Detail,-
+23,25511,ELK 331,Güç Elektroniği Devreleri,Ek Sınav,Murat Yılmaz,-,-,-/-,-,0,2,-,-,Detail,-
+24,21727,ELK 336E,Quantum Computation,Physical (Face to face),Deniz Türkpençe,EEB,Friday,14:00/16:59,5302,70,69,EEE_LS/5/4 | Diğer/65/65,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+25,21732,ELK 342,Güç Elektroniği Laboratuvarı,Physical (Face to face),Mehmet Onur Gülbahçe,EEB,Friday,14:30/16:29,--,50,36,-,"ELK_LS, KOM_LS",Detail,-
+26,21735,ELK 342,Güç Elektroniği Laboratuvarı,Physical (Face to face),Derya Ahmet Kocabaş,EEB,Friday,10:30/12:29,--,50,18,-,"ELK_LS, KOM_LS",Detail,-
+27,21737,ELK 342,Güç Elektroniği Laboratuvarı,Physical (Face to face),Mehmet Onur Gülbahçe,EEB,Thursday,12:30/14:29,--,50,43,-,"ELK_LS, KOM_LS",Detail,-
+28,21739,ELK 342E,Power Electronics Laboratory,Physical (Face to face),Salih Barış Öztürk,EEB,Monday,08:30/10:29,--,50,37,-,"ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+29,21741,ELK 342E,Power Electronics Laboratory,Physical (Face to face),Mehmet Onur Gülbahçe,EEB,Friday,08:30/10:29,--,50,40,-,"ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+30,25520,ELK 343,Elektromekanik Enerji Dönüşümü,Ek Sınav,Güven Kömürgöz Kırış,-,-,-/-,-,0,1,-,-,Detail,-
+31,25522,ELK 344,Elektrik Tesislerinde Güvenlik,Ek Sınav,Belgin Türkay,-,-,-/-,-,0,1,-,-,-,-
+32,21743,ELK 346E,Data Acquisition&Embed. Syst.,Physical (Face to face),Aydın Tarık Zengin,EEB,Friday,08:30/11:29,5305,50,46,EEE_LS/5/6 | Diğer/45/40,"EEE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,-
+33,21747,ELK 356,Elektrik Makinaları,Physical (Face to face),Derya Ahmet Kocabaş,EEB,Wednesday,08:30/11:29,5305,50,54,-,"ELK_LS, KOM_LS",Detail,-
+34,21750,ELK 356,Elektrik Makinaları,Physical (Face to face),Güven Kömürgöz Kırış,EEB,Wednesday,08:30/11:29,5303,50,54,-,"ELK_LS, KOM_LS",Detail,-
+35,21751,ELK 356E,Electrical Machines,Physical (Face to face),Lale Ergene,EEB,Wednesday,08:30/11:29,5307,50,60,EEE_LS/5/2 | Diğer/45/58,"EEE_LS, EHS_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+36,25655,ELK 363,Mühendislikte Çizim,Ek Sınav,Ali Sinan Çabuk,-,-,-/-,-,0,1,-,-,-,-
+37,21753,ELK 364E,Fund. of Super Conductivity,Physical (Face to face),Ahmet Cansız,EEB,Wednesday,12:30/15:29,4102,50,66,EEE_LS/5/7 | EHB_LS/2/2 | EHBE_LS/3/7 | Diğer/40/50,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS",-,-
+38,21755,ELK 406,Elektrik Enerjisi Dağıtımı,Physical (Face to face),Belgin Türkay,EEB,Tuesday,08:30/11:29,5301,40,41,-,ELK_LS,-,-
+39,21756,ELK 406,Elektrik Enerjisi Dağıtımı,Physical (Face to face),Fatma Gül Bağrıyanık,EEB,Tuesday,08:30/11:29,5303,40,41,-,ELK_LS,-,-
+40,21758,ELK 406,Elektrik Enerjisi Dağıtımı,Physical (Face to face),Ömer Gül,EEB,Tuesday,08:30/11:29,5305,40,35,-,ELK_LS,-,-
+41,21759,ELK 406E,Distribution of Electr. Energy,Physical (Face to face),Mustafa Bağrıyanık,EEB,Tuesday,08:30/11:29,5307,45,54,EEE_LS/5/3 | Diğer/40/51,"EEE_LS, ELK_LS, ELKE_LS",-,-
+42,21761,ELK 414,Elk. Mak. Aşırı Zorlanmalar,Physical (Face to face),Güven Kömürgöz Kırış,EEB,Wednesday,12:30/15:29,5307,50,16,-,ELK_LS,Detail,-
+43,21764,ELK 420,Elektrik Dağıtım Otomas. Lab.,Physical (Face to face),Fatma Gül Bağrıyanık,EEB,Tuesday,14:30/16:29,--,35,35,-,ELK_LS,-,-
+44,21772,ELK 420,Elektrik Dağıtım Otomas. Lab.,Physical (Face to face),Fatma Gül Bağrıyanık,EEB,Tuesday,12:30/14:29,--,35,39,-,ELK_LS,-,-
+45,21774,ELK 420E,Electr. Distrib. Autom. Lab.,Physical (Face to face),Zehra Elif Batman,EEB,Wednesday,12:30/14:29,--,35,35,-,"ELK_LS, ELKE_LS",-,-
+46,21777,ELK 420E,Electr. Distrib. Autom. Lab.,Physical (Face to face),Zehra Elif Batman,EEB,Friday,14:30/16:29,--,40,34,-,"ELK_LS, ELKE_LS",-,-
+47,25660,ELK 423,Özel Elektrik Makinaları,Ek Sınav,Murat İmeryüz,-,-,-/-,-,0,1,-,-,Detail,-
+48,21780,ELK 428,Elektrikli ve Karma Taşıtlar,Physical (Face to face),Murat Yılmaz,EEB,Friday,08:30/11:29,5303,50,46,KOM_LS/5/0 | EHB_LS/5/6 | ELK_LS/40/40 | Diğer/0/0,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
+49,25521,ELK 431,Elektrik Makinaları Lab.,Ek Sınav,Derya Ahmet Kocabaş,-,-,-/-,-,0,1,-,-,Detail,-
+50,21783,ELK 453E,Ind. Appl. of Power Electron.,Physical (Face to face),Salih Barış Öztürk,EEB,Thursday,12:30/15:29,5305,50,51,EEE_LS/5/5 | Diğer/45/46,"EEE_LS, EHS_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+51,21789,ELK 458,Elektrik Mühendisliği Projesi,Physical (Face to face),Mehmet Onur Gülbahçe,EEB,Wednesday,08:30/11:29,1301,15,12,-,ELK_LS,-,Detail
+52,21791,ELK 458,Elektrik Mühendisliği Projesi,Physical (Face to face),Banu Uçar,EEB,Monday,08:30/11:29,5301,15,17,-,ELK_LS,-,Detail
+53,25524,ELK 458,Elektrik Mühendisliği Projesi,Ek Sınav,Güven Kömürgöz Kırış,-,-,-/-,-,0,1,-,-,-,Detail
+54,21792,ELK 458E,Electrical Engineering Project,Physical (Face to face),Suat İlhan,EEB,Monday,08:30/11:29,5305,15,17,-,"ELK_LS, ELKE_LS",-,Detail
+55,21793,ELK 458E,Electrical Engineering Project,Physical (Face to face),Derya Ahmet Kocabaş,EEB,Monday,08:30/11:29,5307,15,18,-,"ELK_LS, ELKE_LS",-,Detail
+56,21794,ELK 458E,Electrical Engineering Project,Physical (Face to face),Emre Özer,EEB,Monday,08:30/11:29,5205,20,21,-,"ELK_LS, ELKE_LS",-,Detail
+57,21795,ELK 458E,Electrical Engineering Project,Physical (Face to face),Lale Erdem Atılgan,EEB,Monday,08:30/11:29,5201,15,22,-,"ELK_LS, ELKE_LS",-,Detail
+58,23595,ELK 463E,Overvolt. & Insulation Coord.,Physical (Face to face),Suat İlhan,EEB,Monday,12:30/15:29,5201,50,27,EEE_LS/5/0 | Diğer/45/27,"EEE_LS, ELK_LS, ELKE_LS",-,-
+59,21797,ELK 464,Elk. Tesislerinde Koruma Tek.,Physical (Face to face),Hatice Lale Zeynelgil,EEB,Wednesday,12:30/15:29,5305,50,36,-,ELK_LS,-,-
+60,21798,ELK 472E,Renewable Energy Systems,Physical (Face to face),Deniz Yıldırım,EEB,Thursday,12:30/15:29,Z4,50,13,EEE_LS/5/0 | Diğer/45/13,"EEE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+61,21799,ELK 474E,Power Syst. Contr. & Commun.,Physical (Face to face),Cavit Fatih Küçüktezcan,EEB,Friday,08:30/11:29,5307,50,10,EEE_LS/5/0 | Diğer/45/10,"EEE_LS, ELK_LS, ELKE_LS",-,Detail
+62,21801,ELK 488,Elektrikli Sürücü Sistemleri,Physical (Face to face),Murat İmeryüz,EEB,Thursday,08:30/11:29,5301,50,31,-,ELK_LS,Detail,-
+63,21802,ELK 488E,Electric Drive Systems,Physical (Face to face),Derya Ahmet Kocabaş,EEB,Thursday,08:30/11:29,5305,50,20,EEE_LS/5/0 | Diğer/45/20,"EEE_LS, EHS_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+64,21807,ELK 4901,Elektrik Müh. Tasarımı I,Physical (Face to face),Mustafa Bağrıyanık,-,-,-/-,-,200,34,-,ELK_LS,Detail,Detail
+65,21810,ELK 4901E,Electrical Eng. Design I,Physical (Face to face),Mustafa Bağrıyanık,-,-,-/-,-,200,17,-,"ELK_LS, ELKE_LS",Detail,Detail
+66,21813,ELK 4902,Elektrik Müh. Tasarımı II,Physical (Face to face),Mustafa Bağrıyanık,-,-,-/-,-,200,86,-,ELK_LS,Detail,-
+67,21814,ELK 4902E,Electrical Eng. Design II,Physical (Face to face),Mustafa Bağrıyanık,-,-,-/-,-,200,45,-,"ELK_LS, ELKE_LS",Detail,-
+68,21811,ELK 492,Bitirme Tasarım Projesi,Physical (Face to face),Mustafa Bağrıyanık,-,-,-/-,-,50,5,-,ELK_LS,-,Detail
+69,21803,ELK 493E,Lighting Tech.&Photometry Lab.,Physical (Face to face),Lale Erdem Atılgan,EEB,Tuesday,12:30/15:29,5301,25,25,-,"ELK_LS, ELKE_LS",-,-
+70,21805,ELK 496E,Power Syst. Dyn. & Stability,Physical (Face to face),Veysel Murat İstemihan Genç,EEB,Friday,09:30/12:29,5301,50,15,EEE_LS/5/1 | Diğer/45/14,"EEE_LS, ELK_LS, ELKE_LS",-,-

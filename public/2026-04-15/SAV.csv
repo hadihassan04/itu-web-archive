@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25101,SAV 303E,Introduction to Air Vehicle Power System,Physical (Face to face),İbrahim Özkol,MEDC,Wednesday,17:30/20:29,1D8,30,12,-,SAV_YD,-,-
+1,25102,SAV 304E,Introduction and Application to Guidance and Navigation,Physical (Face to face),Emre Koyuncu,MEDC,Tuesday,17:30/20:29,1D8,30,5,-,SAV_YD,-,-
+2,25103,SAV 306E,Practical RF Communication for UAV Systems,Physical (Face to face),Ramazan Yeniçeri,MEDC,Thursday,17:30/20:29,1D8,30,18,-,SAV_YD,-,-

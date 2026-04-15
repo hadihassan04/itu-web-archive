@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21398,SAO 101E,Fundamentals of Programming I,Physical (Face to face),Anıl Suat Terliksiz,BEB BEB,Thursday Friday,15:00/17:59 10:30/12:29,-- --,15,7,-,SAO_OL,-,-
+1,21396,SAO 102E,Fundamentals of Programming II,Physical (Face to face),"Gonca Özmen , Emre Parlak",BEB BEB,Wednesday Wednesday,09:30/12:29 13:30/15:29,-- --,25,17,-,SAO_OL,Detail,-
+2,21405,SAO 103,Bilişim ve Ağ Teknolojisinin Temelleri,Physical (Face to face),Engin Baysal,BEB BEB,Tuesday Tuesday,08:30/11:29 12:30/14:29,-- --,25,5,-,SAO_OL,-,-
+3,21416,SAO 104E,Database Applications and Security,Physical (Face to face),"Umur Kuriş , Gonca Özmen",BEB BEB,Thursday Thursday,09:30/12:29 13:30/15:29,-- --,25,17,-,SAO_OL,Detail,-
+4,21414,SAO 105,İşletim Sistemleri & Güvenliği,Physical (Face to face),Emre Parlak,BEB BEB,Thursday Thursday,09:00/11:59 13:00/14:59,-- --,25,3,-,SAO_OL,-,-
+5,21400,SAO 106,Güvenli Ağ Tasarımı ve Cihaz Yönetimi	Secure Network Design and Device Management,Physical (Face to face),Engin Baysal,BEB BEB,Monday Monday,09:00/11:59 13:00/14:59,-- --,25,21,-,SAO_OL,Detail,-
+6,21399,SAO 107E,Mathematics and Logic,Physical (Face to face),Emre Parlak,BEB,Monday,12:30/15:29,--,25,3,-,SAO_OL,-,-
+7,21407,SAO 108,Sanallaştırma ve Bulut Teknolojileri,Physical (Face to face),Umur Kuriş,BEB BEB,Tuesday Tuesday,10:00/11:59 13:00/15:59,-- --,25,20,-,SAO_OL,Detail,-
+8,21409,SAO 109E,Introduction to Cybersecurity,Physical (Face to face),Umur Kuriş,BEB,Wednesday,10:00/11:59,--,25,5,-,SAO_OL,-,-
+9,21392,SAO 200,İşletmede Mesleki Eğitim,Physical (Face to face),Murat Sekmen,BEB BEB BEB,Monday Tuesday Wednesday,08:30/16:29 08:30/16:29 08:30/16:29,-- -- --,25,7,-,SAO_OL,Detail,-
+10,21412,SAO 201,Sızma Testi,Physical (Face to face),Umur Kuriş,BEB BEB,Wednesday Friday,13:00/15:59 10:30/12:29,-- --,25,2,-,SAO_OL,Detail,-
+11,21422,SAO 202E,Cyber Incident Management,Physical (Face to face),Murat Sekmen,BEB,Friday,18:30/21:29,--,25,14,-,SAO_OL,Detail,-
+12,21402,SAO 203E,Mobile Technologies and Security,Physical (Face to face),Murat Sekmen,BEB BEB,Monday Monday,08:30/11:29 13:00/14:59,-- --,25,3,-,SAO_OL,Detail,-
+13,21418,SAO 204,Girişimcilik ve Kariyer Planlama,Physical (Face to face),Emre Parlak,BEB,Friday,08:30/10:29,--,30,30,-,SAO_OL,-,-
+14,21411,SAO 205E,Cyber Security Governance,Physical (Face to face),Engin Baysal,BEB,Wednesday,08:30/11:29,--,25,5,-,SAO_OL,Detail,-
+15,21417,SAO 207E,Secure Software Development,Physical (Face to face),Anıl Suat Terliksiz,BEB BEB,Thursday Thursday,09:00/11:59 13:00/14:59,-- --,25,3,-,SAO_OL,Detail,-
+16,21423,SAO 209,Etkili İletişim ve Sunum Teknikleri,Physical (Face to face),Murat Sekmen,BEB,Monday,15:30/16:29,--,25,24,-,SAO_OL,-,-
+17,21420,SAO 253,Nesne Tabanlı Programlama,Physical (Face to face),Anıl Suat Terliksiz,BEB,Friday,14:00/16:59,--,25,7,-,SAO_OL,Detail,-

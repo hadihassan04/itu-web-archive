@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25018,PHY 124,Physics II,Physical (Face to face),Seda Aksoy Esinoğlu,FEB,Tuesday,13:30/16:29,D103,40,38,-,EHN_LS,-,-
+1,25019,PHY 124L,Physics II Lab,Physical (Face to face),Seda Aksoy Esinoğlu,FEB,Wednesday,13:30/15:29,--,36,36,-,EHN_LS,-,-
+2,25021,PHY 126,Physics II,Physical (Face to face),Sevtap Yıldız Özbek,FEB,Tuesday,14:30/17:29,D204,40,41,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+3,25022,PHY 126,Physics II,Physical (Face to face),Yakup Hundur,FEB,Tuesday,14:30/17:29,L400,40,38,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+4,25023,PHY 126L,Physics II Laboratory,Physical (Face to face),Yakup Hundur,FEB,Wednesday,13:30/15:29,--,30,22,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+5,25024,PHY 126L,Physics II Laboratory,Physical (Face to face),Sevtap Yıldız Özbek,FEB,Wednesday,11:30/13:29,--,30,31,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-

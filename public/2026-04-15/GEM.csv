@@ -1,0 +1,61 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24262,GEM 102,Gemi Geometrisi,Physical (Face to face),Cihad Delen,EEB,Monday,13:30/16:29,6307,45,45,-,"GEM_LS, GEM_YD",-,-
+1,24267,GEM 102,Gemi Geometrisi,Physical (Face to face),Münir Cansın Özden,INB,Monday,13:30/16:29,D201,45,39,-,"GEM_LS, GEM_YD",-,-
+2,24275,GEM 201E,Dynamics,Physical (Face to face),Mustafa Erden Yıldızdağ,MEDC MEDC,Monday Wednesday,08:30/10:29 08:30/10:29,1D7 1D7,40,27,-,GEM_LS,Detail,-
+3,24358,GEM 203,Mukavemet I,Physical (Face to face),İsmail Yalçın,MEDC MEDC,Monday Tuesday,13:30/15:29 13:30/15:29,2D13 ZD1,50,46,-,GEM_LS,-,-
+4,24282,GEM 204,Termodinamik,Physical (Face to face),Oğuz Salim Söğüt,MEDC MEDC,Wednesday Thursday,10:30/12:29 10:30/12:29,2D15 ZD2,40,40,-,GEM_LS,Detail,-
+5,24364,GEM 204,Termodinamik,Physical (Face to face),Halil Saraçoğlu,MEDC MEDC,Wednesday Thursday,10:30/12:29 10:30/12:29,2D16 1D3,50,31,-,GEM_LS,Detail,-
+6,24991,GEM 204E,Thermodynamics,Physical (Face to face),Murat Durmaz,MEDC,Friday,08:30/12:29,1D10,60,42,-,NAE_LS,Detail,-
+7,24367,GEM 214E,Engineering Measurements,Physical (Face to face),Emin Korkut,MEDC,Thursday,13:30/16:29,1D4,50,52,-,"GEM_LS, GEME_LS",-,-
+8,24373,GEM 216E,Heat Transfer In Engineering,Physical (Face to face),Selma Ergin,MEDC,Friday,09:30/12:29,2D11,50,39,-,"GEM_LS, GEME_LS",-,-
+9,24993,GEM 216E,Heat Transfer In Engineering,Physical (Face to face),Murat Durmaz,MEDC,Tuesday,13:30/16:29,ZA4,60,42,-,NAE_LS,-,-
+10,24380,GEM 312,Gemi Yardımcı Makinaları,Physical (Face to face),Osman Azmi Özsoysal,MEDC,Monday,10:30/13:29,1D7,45,45,-,GEM_LS,-,-
+11,24382,GEM 312,Gemi Yardımcı Makinaları,Physical (Face to face),"Murat Emre Demir , Halil Saraçoğlu",MEDC,Monday,10:30/13:29,1D8,45,22,-,GEM_LS,-,-
+12,24995,GEM 312E,Marine Auxiliary Machinery,Physical (Face to face),Ahmet Ergün Palaz,INB,Thursday,12:30/15:29,A105,70,67,-,NAE_LS,-,-
+13,25624,GEM 322,Gemi Mukavemeti,Ek Sınav,Ertekin Bayraktarkatal,-,-,-/-,-,0,1,-,-,Detail,-
+14,24385,GEM 324,Gemi Mukavemeti,Physical (Face to face),Ertekin Bayraktarkatal,MEDC MEDC,Monday Wednesday,08:30/10:29 08:30/10:29,1D10 ZA3,60,44,-,GEM_LS,Detail,-
+15,24994,GEM 324E,Strength of Ships,Physical (Face to face),Ahmet Ergin,MEDC MEDC,Tuesday Friday,10:30/12:29 14:00/15:59,2D17 2D13,50,28,-,NAE_LS,Detail,-
+16,24383,GEM 325,Gemi Yapı Elemanları,Physical (Face to face),Gökhan Tansel Tayyar,MEDC MEDC,Wednesday Thursday,08:30/10:29 15:30/17:29,2D16 2D14,40,28,-,"GEM_LS, GEM_YD",Detail,-
+17,25060,GEM 325E,Ship Construction,Physical (Face to face),İbrahim Tuğrul Ardıç,MEDC,Friday,08:30/12:29,2D14,50,10,-,NAE_LS,Detail,-
+18,24387,GEM 326E,Ship Design,Physical (Face to face),Devrim Bülent Danışman,MEDC MEDC,Tuesday Wednesday,11:30/13:29 13:30/15:29,ZD1 1D10,90,85,-,"GEM_LS, GEM_YD, GEME_LS",Detail,-
+19,24996,GEM 326E,Ship Design,Physical (Face to face),Cihad Delen,BBB,Tuesday,13:30/17:29,Z-17,50,33,-,NAE_LS,Detail,-
+20,24389,GEM 328E,Ship Hydrodynamics(Propulsion),Physical (Face to face),Emin Korkut,MEDC,Tuesday,08:30/11:29,1D10,90,86,-,"GEM_LS, GEM_YD, GEME_LS",Detail,-
+21,24999,GEM 328E,Ship Hydrodynamics(Propulsion),Physical (Face to face),Şakir Bal,MEDC MEDC,Wednesday Thursday,08:30/10:29 09:30/10:29,2D15 2D12,50,28,-,NAE_LS,Detail,-
+22,24390,GEM 332,Gemi Elektrik Sistemleri,Physical (Face to face),Ali Sinan Çabuk,MEDC,Thursday,08:30/10:29,1D10,90,94,-,GEM_LS,-,-
+23,24998,GEM 332E,Electrical Systems in Ships,Physical (Face to face),Ali Sinan Çabuk,EEB,Thursday,10:30/12:29,2106,60,48,-,NAE_LS,-,-
+24,25626,GEM 341E,Ship Hydrodynamics,Ek Sınav,Uğur Oral Ünal,-,-,-/-,-,0,1,-,-,Detail,-
+25,24997,GEM 353E,Work Safety & Health Training in Shipbuilding Industry,Physical (Face to face),Halil Saraçoğlu,MEDC,Wednesday,12:30/15:29,1D5,50,36,-,NAE_LS,-,-
+26,24391,GEM 354,Gem.İnş.&Gem.San.İş Gv.&İşç.Sğ,Physical (Face to face),Halil Saraçoğlu,MEDC,Monday,14:30/16:29,1D8,80,45,-,GEM_LS,-,-
+27,25093,GEM 407E,Methods of Ship Production,Physical (Face to face),Gökhan Tansel Tayyar,MEDC MEDC,Tuesday Thursday,11:30/12:29 08:30/10:29,2D13 2D13,50,12,-,"GEM_LS, GEME_LS",Detail,-
+28,24395,GEM 410,Hesaplamalı Akışkanlar Mek.,Physical (Face to face),Uğur Oral Ünal,MEDC,Friday,14:00/16:59,1D10,80,78,-,GEM_LS,Detail,-
+29,25006,GEM 410E,Computational Fluid Mechanics,Physical (Face to face),Ahmet Gültekin Avcı,MEDC MEDC,Wednesday Wednesday,13:30/15:29 17:30/18:29,2D15 2D15,50,15,-,NAE_LS,Detail,-
+30,25627,GEM 411,Gemi Tasarımı Projesi I,Ek Sınav,Selma Ergin,-,-,-/-,-,0,1,-,-,Detail,-
+31,24178,GEM 412E,Shipyard Organization,Physical (Face to face),Erdem Üçer,MEDC,Monday,08:30/10:29,3D20,100,92,-,DEN_LS,-,-
+32,24404,GEM 416,Savaş Gemileri Dizaynı,Physical (Face to face),Yavuz Kayıhan,MEDC,Friday,10:30/12:29,ZD2,40,14,-,GEM_LS,-,-
+33,25327,GEM 416E,Warship Design,Physical (Face to face),Münir Cansın Özden,MEDC,Thursday,13:30/15:29,2D12,50,11,-,NAE_LS,-,-
+34,25628,GEM 422,Gemi Tasarım Projesi II,Ek Sınav,Selma Ergin,-,-,-/-,-,0,1,-,-,Detail,-
+35,24410,GEM 426E,Hydrodynamic Design of Ships,Physical (Face to face),Devrim Bülent Danışman,MEDC,Friday,08:30/10:29,2D17,40,50,-,"GEM_LS, GEME_LS",-,-
+36,24413,GEM 430E,Shipyard Organization,Physical (Face to face),Erdem Üçer,INB,Thursday,13:30/15:29,A102,60,60,-,"GEM_LS, GEME_LS",Detail,-
+37,25001,GEM 430E,Shipyard Organization,Physical (Face to face),Erdem Üçer,MEDC,Tuesday,08:30/10:29,2D17,50,22,-,NAE_LS,Detail,-
+38,24415,GEM 438E,Stability of Ships,Physical (Face to face),Erdem Üçer,MEDC,Friday,10:30/12:29,ZD1,65,73,-,"GEM_LS, GEME_LS",Detail,-
+39,25003,GEM 447E,Vent & Air Cond Sys For Ships,Physical (Face to face),Selma Ergin,MEDC,Monday,10:30/12:29,3D20,50,8,-,NAE_LS,Detail,-
+40,24417,GEM 474,Deniz Araçları Sualtı Akustiği,Physical (Face to face),"Şakir Bal , Baha Zafer",MEDC,Tuesday,13:00/14:59,2D15,35,2,-,GEM_LS,-,-
+41,24422,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Bahadır Uğurlu,-,-,-/-,-,5,1,-,GEM_LS,-,-
+42,24423,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Cihad Delen,-,-,-/-,-,5,3,-,GEM_LS,-,-
+43,24426,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Devrim Bülent Danışman,-,-,-/-,-,5,3,-,GEM_LS,-,-
+44,24478,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Emin Korkut,-,-,-/-,-,5,1,-,GEM_LS,-,-
+45,24481,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Erdem Üçer,-,-,-/-,-,5,4,-,GEM_LS,-,-
+46,24486,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Fuzuli Ağrı Akçay,-,-,-/-,-,5,1,-,GEM_LS,-,-
+47,24488,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Halil Saraçoğlu,-,-,-/-,-,5,2,-,GEM_LS,-,-
+48,24490,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Murat Emre Demir,-,-,-/-,-,5,3,-,GEM_LS,-,-
+49,24492,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Mustafa Erden Yıldızdağ,-,-,-/-,-,5,2,-,GEM_LS,-,-
+50,24494,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Oğuz Salim Söğüt,-,-,-/-,-,5,4,-,GEM_LS,-,-
+51,24495,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Osman Azmi Özsoysal,-,-,-/-,-,5,3,-,GEM_LS,-,-
+52,24497,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Selma Ergin,-,-,-/-,-,5,2,-,GEM_LS,-,-
+53,24499,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Uğur Oral Ünal,-,-,-/-,-,5,2,-,GEM_LS,-,-
+54,25260,GEM 482E,Individual Graduation Project,Physical (Face to face),Erdem Üçer,-,-,-/-,-,5,2,-,NAE_LS,-,-
+55,25264,GEM 482E,Individual Graduation Project,Physical (Face to face),İbrahim Tuğrul Ardıç,-,-,-/-,-,5,4,-,NAE_LS,-,-
+56,24397,GEM 4901,Gemi İnş.&Gemi Mak. Müh.Tas.I,Physical (Face to face),Selma Ergin,MEDC MEDC,Wednesday Thursday,10:30/13:29 10:30/13:29,3D20 1D10,80,3,-,GEM_LS,Detail,Detail
+57,24400,GEM 4902,Gemi İnş.&Gem.Mak. Müh.Tas.II,Physical (Face to face),"Gökhan Tansel Tayyar , Ahmet Ergin , Devrim Bülent Danışman , Emin Korkut , Erdem Üçer , Ertekin Bayraktarkatal , İsmail Yalçın , Osman Azmi Özsoysal , Şakir Bal",MEDC MEDC,Wednesday Thursday,10:30/13:29 10:30/13:29,ZA3 ZD1,80,64,-,GEM_LS,Detail,-
+58,25000,GEM 4902E,Naval Architecture & Marine Engeneering Design II,Physical (Face to face),İbrahim Tuğrul Ardıç,MEDC MEDC,Wednesday Thursday,10:30/13:29 10:30/13:29,2D13 2D13,50,5,-,NAE_LS,Detail,-
+59,24501,GEM 492,Bitirme Tasarım Projesi,Physical (Face to face),Selma Ergin,-,-,-/-,-,5,2,-,GEM_LS,-,Detail

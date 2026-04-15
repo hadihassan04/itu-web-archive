@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25505,IML 305,Isı Geçişi,Ek Sınav,İsmail Yalçın Uralcan,-,-,-/-,-,0,1,-,-,Detail,-
+1,25163,IML 312,İmal Usülleri II,Physical (Face to face),Raşid Ahmed Yıldız,MKB,Tuesday,13:30/17:29,--,5,1,-,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",Detail,-
+2,25615,IML 320,Makina Elemanları,Ek Sınav,Ali İmre Aydeniz,-,-,-/-,-,0,1,-,-,Detail,-
+3,25164,IML 322,İmalatta Otomasyon,Physical (Face to face),Erdinç Altuğ,MKB,Friday,14:30/17:29,--,5,3,-,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",Detail,-
+4,25165,IML 338,İmalat Sistemleri,Physical (Face to face),"Ramazan Murat Tabanlı , Metin Kayıtmazbatır",MKB,Tuesday,10:30/13:29,--,5,1,-,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",Detail,-
+5,25166,IML 402,İmalat Lab II,Physical (Face to face),Canan Gamze Güleryüz Parasız,MKB,Monday,13:30/15:29,--,5,1,-,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",-,Detail
+6,25170,IML 4902,İmalat Müh. Tasarımı II,Physical (Face to face),Akif Yavuz,-,-,-/-,-,5,2,-,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",Detail,-
+7,25168,IML 492,İmalat Tasarım Projesi,Physical (Face to face),Akif Yavuz,-,-,-/-,-,5,1,-,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",-,Detail

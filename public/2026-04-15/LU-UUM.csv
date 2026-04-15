@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22289,UUM 504E,Structural Dynamics,Physical (Face to face),Vedat Ziya Doğan,MEDC,Monday,08:30/11:29,ZD1,73,74,-,-,-,-
+1,22290,UUM 509E,Turbulent Flow,Physical (Face to face),Ayşe Gül Güngör,MEDC,Tuesday,14:30/17:29,1D7,40,28,-,-,-,-
+2,22302,UUM 510E,Computational Fluid Dynamics,Physical (Face to face),Mehmet Şahin,MEDC,Thursday,08:30/11:29,3D20,50,52,-,-,-,-
+3,22303,UUM 522E,Celestial and Applied Or.Mech.,Physical (Face to face),Cuma Yarım,MEDC,Monday,13:30/16:29,2D12,40,10,-,-,-,-
+4,22306,UUM 526E,Optimization Techniques in En.,Physical (Face to face),Melike Nikbay,MEDC,Thursday,14:30/17:29,2D17,60,23,-,-,-,-
+5,22296,UUM 533,Aeroelastisite,Physical (Face to face),Metin Orhan Kaya,MEDC,Tuesday,14:30/17:29,2D11,40,4,-,-,-,-
+6,22295,UUM 535E,Engineering Mathematics,Physical (Face to face),Seher Eken,MEDC,Thursday,08:30/11:29,ZA1,70,69,-,-,-,-
+7,22297,UUM 536,Kısmi Diferansiyel Denklemler,Physical (Face to face),İbrahim Özkol,MEDC,Friday,08:30/11:29,3D20,60,49,-,-,-,-
+8,22307,UUM 541E,Advanced Propulsion,Physical (Face to face),Mehmet Kahraman,MEDC,Monday,09:30/12:29,1D3,40,25,-,-,-,-
+9,22308,UUM 543E,Spec.Top.in Aeron.&Astron.Eng.,Physical (Face to face),Samet Çeri,MEDC,Tuesday,08:30/11:29,1D9,40,9,-,-,-,-
+10,25268,UUM 543E,Spec.Top.in Aeron.&Astron.Eng.,Physical (Face to face),İskender Gökalp,MEDC,Friday,14:30/17:29,1D9,40,36,-,-,-,-
+11,22298,UUM 549E,Theory of Fracture and Fatigue,Physical (Face to face),Oğuzcan İnal,MEDC,Tuesday,14:30/17:29,1D8,40,20,-,-,-,-
+12,22304,UUM 556E,Advanced Thermodynamics,Physical (Face to face),Ahmet Ziyaettin Şahin,MEDC,Tuesday,11:30/14:29,1D7,40,6,-,-,-,-
+13,22299,UUM 596E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Baha Zafer,MEDC,Wednesday,12:30/14:29,ZA4,60,23,-,-,-,-
+14,22300,UUM 624E,Phycical Gas Dynamics,Physical (Face to face),Fırat Oğuz Edis,MEDC,Thursday,14:30/17:29,3D20,40,28,-,-,-,-
+15,22309,UUM 625E,Advan.Top.in Aeron.&Astro.Eng.,Physical (Face to face),Gökhan İnalhan,MEDC,Friday,08:30/11:29,1D3,40,12,-,-,-,-
+16,22293,UUM 632,Uçaklarda Buzlanma,Physical (Face to face),Duygu Erdem,MEDC,Friday,14:30/17:29,2D17,40,4,-,-,-,-
+17,22294,UUM 634E,Reinfor.Lear.&Opti.-based Con.,Physical (Face to face),Emre Koyuncu,MEDC,Tuesday,14:30/17:29,1D9,44,42,-,-,-,-
+18,22301,UUM 696E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Baha Zafer,MEDC,Wednesday,15:30/17:29,1D7,60,4,UUM_UU_DR/60/4 | Diğer/0/0,UUM_UU_DR,-,-
+19,22310,UUM DRT,Tez Çalışması,Physical (Face to face),Halit Süleyman Türkmen,-,-,-/-,-,200,54,-,-,-,-
+20,22311,UUM YET,Yeterlik Aşaması,Physical (Face to face),Halit Süleyman Türkmen,-,-,-/-,-,200,15,-,-,-,-
+21,22312,UUM YLT,Tez Çalışması,Physical (Face to face),Halit Süleyman Türkmen,-,-,-/-,-,200,92,-,-,-,-

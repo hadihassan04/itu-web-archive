@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24990,NAE 102E,Ship Geometry,Physical (Face to face),Murat Durmaz,MEDC,Friday,14:30/17:29,ZA2,50,48,-,NAE_LS,-,-
+1,25054,NAE 201,Practical Training-I,Physical (Face to face),Murat Durmaz,-,-,-/-,-,50,7,-,NAE_LS,-,-
+2,25057,NAE 301,Practical Training-II,Physical (Face to face),Murat Durmaz,-,-,-/-,-,50,9,-,NAE_LS,-,Detail
+3,25055,NAE 302,Strength of Ships,Physical (Face to face),İbrahim Tuğrul Ardıç,MEDC MEDC,Tuesday Friday,10:30/12:29 14:00/15:59,3BİL1 3BİL1,50,7,-,NAE_LS,Detail,-
+4,25064,NAE 401,Practical Training-III,Physical (Face to face),Murat Durmaz,-,-,-/-,-,50,11,-,NAE_LS,-,Detail
+5,25062,NAE 402,Graduation Design Project,Physical (Face to face),Murat Durmaz,-,-,-/-,-,50,12,-,NAE_LS,-,Detail
+6,25063,NAE 412,Ship Design Project II,Physical (Face to face),Murat Durmaz,MEDC,Wednesday,10:30/12:29,3BİL1,50,12,-,NAE_LS,Detail,-

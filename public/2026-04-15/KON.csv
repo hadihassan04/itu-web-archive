@@ -1,0 +1,38 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21829,KON 218,Ölçme Tekniği ve Algılayıcılar,Physical (Face to face),Yücel Aydın,EEB,Friday,08:30/12:29,5202,75,39,-,"EHB_LS, ELK_LS, KOM_LS, MKN_LS",-,-
+1,21830,KON 218E,Measurement and Sensors,Physical (Face to face),Onur Akbatı,EEB,Friday,08:30/12:29,5204,80,85,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, MKN_LS",-,-
+2,21831,KON 218E,Measurement and Sensors,Physical (Face to face),Onur Akbatı,EEB,Thursday,08:30/12:29,6309,80,110,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, MKN_LS",-,-
+3,25657,KON 224,Ölçme ve Enstrümantasyon,Ek Sınav,Yücel Aydın,-,-,-/-,-,0,1,-,-,-,-
+4,25286,KON 224E,Measurement&Instrumentation,Physical (Face to face),Yücel Aydın,BBB,Tuesday,13:30/16:29,Z-20,60,8,-,"BLG_LS, BLGE_LS, CEN_LS",-,-
+5,21832,KON 301E,System Modelling&Simulation,Physical (Face to face),Abdurrahman Yılmaz,EEB,Friday,08:30/12:29,5105,50,44,EEE_LS/10/9 | Diğer/40/35,"EEE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+6,21833,KON 306,Bilgisayar Kontrollü Sistemler,Physical (Face to face),Ahmet Onat,EEB EEB,Tuesday Wednesday,15:30/17:29 12:30/14:29,5102 5304,80,81,-,"KOM_LS, ROS_LS",Detail,-
+7,21834,KON 306E,Computer Controlled Systems,Physical (Face to face),Mahdi Baradarannia,EEB EEB,Tuesday Wednesday,15:30/17:29 12:30/14:29,5104 6309,80,70,-,"EEE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+8,25653,KON 309E,Microcontroller Systems,Ek Sınav,Emre Dincel,-,-,-/-,-,0,1,-,-,Detail,-
+9,21836,KON 313E,Feedback Control Systems,Physical (Face to face),Kemal Uçak,EEB,Tuesday,12:30/15:29,5302,80,80,-,"CEN_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, MKN_LS",Detail,-
+10,21839,KON 313E,Feedback Control Systems,Physical (Face to face),Tufan Kumbasar,EEB,Tuesday,12:30/15:29,5304,80,84,-,"CEN_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, MKN_LS",Detail,-
+11,21843,KON 314,Kontrol Sistem Tasarımı,Physical (Face to face),Mehmet Turan Söylemez,EEB EEB,Monday Thursday,12:30/14:29 15:30/17:29,2104 6307,70,70,-,"KOM_LS, ROS_LS",Detail,-
+12,21858,KON 314E,Control System Design,Physical (Face to face),İlker Üstoğlu,EEB EEB,Monday Friday,12:30/14:29 15:30/17:29,2106 6307,70,59,-,"EEE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+13,21862,KON 315,Elektronik Enstrümantasyon,Physical (Face to face),Yücel Aydın,EEB,Friday,14:00/17:59,5202,50,9,-,KOM_LS,Detail,-
+14,21869,KON 318E,Introduction to Robotics,Physical (Face to face),Hakan Temeltaş,EEB,Tuesday,12:30/15:29,6309,85,89,-,"KOM_LS, KOME_LS",-,-
+15,21872,KON 324E,Sensors&Transducers in Contr.,Physical (Face to face),Ali Fuat Ergenç,EEB,Thursday,12:30/15:29,5205,50,40,END_LS/2/0 | ENDE_LS/3/2 | Diğer/45/38,"EEE_LS, END_LS, ENDE_LS, KOM_LS, KOME_LS, MKN_LS, ROS_LS, ROSE_LS",-,-
+16,21877,KON 325E,Industrial Automation Systems,Physical (Face to face),Yaprak Yalçın,EEB,Tuesday,12:30/15:29,2104,80,54,END_LS/2/0 | ENDE_LS/3/0 | Diğer/75/54,"END_LS, ENDE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+17,25513,KON 403,Kontrol Lab.,Ek Sınav,Ahmet Onat,-,-,-/-,-,0,0,-,-,Detail,-
+18,21881,KON 405E,State Space Meth.in Contr.Syst,Physical (Face to face),Farzad Hashemzadeh,EEB,Friday,08:30/11:29,5201,50,41,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+19,25512,KON 417,Servo Motorlar,Ek Sınav,İlker Üstoğlu,-,-,-/-,-,0,2,-,-,Detail,-
+20,25399,KON 417E,Servo Motors,Physical (Face to face),Ali Fuat Ergenç,EEB,Monday,14:30/17:29,2106,50,18,-,"EEE_LS, KOM_LS, KOME_LS",Detail,-
+21,21886,KON 421,Robot Kontrolü,Physical (Face to face),Sıddık Murat Yeşiloğlu,EEB,Thursday,09:30/12:29,5201,50,2,-,"KOM_LS, MKN_LS",Detail,-
+22,25515,KON 422,Elektrikli Ulaşım Sistemleri,Ek Sınav,Yaprak Yalçın,-,-,-/-,-,0,4,-,-,-,-
+23,21889,KON 424E,Mod.&Cntrl of Biological Sys.,Virtual (Online),Emre Dincel,EEB,Wednesday,12:30/15:29,--,85,91,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+24,25662,KON 425E,Process Control,Ek Sınav,İlhan Kocaarslan,-,-,-/-,-,0,1,-,-,Detail,-
+25,21893,KON 426E,Intelligent Control Systems,Physical (Face to face),Gülay Öke Günel,EEB,Monday,12:30/15:29,4104,50,31,-,"EEE_LS, EHS_LS, KOM_LS, KOME_LS, MKN_LS, ROS_LS, ROSE_LS",Detail,-
+26,21894,KON 428,Optimal Kontrole Giriş,Physical (Face to face),Müjde Güzelkaya,EEB,Monday,08:30/11:29,2104,55,56,-,"KOM_LS, MKN_LS, ROS_LS",Detail,-
+27,21896,KON 428E,Intr. to Optimal Control,Physical (Face to face),İlker Üstoğlu,EEB,Monday,08:30/11:29,5207,55,54,-,"EEE_LS, KOM_LS, KOME_LS, MKN_LS, ROS_LS, ROSE_LS",Detail,-
+28,21898,KON 429E,Autonomous Vehicles,Physical (Face to face),Volkan Sezer,EEB,Monday,08:30/11:29,2106,55,56,EEE_LS/5/5 | EHB_LS/5/8 | EHBE_LS/5/8 | Diğer/45/43,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+29,25514,KON 435E,Industrial Data Communications,Ek Sınav,Onur Akbatı,-,-,-/-,-,0,1,-,-,-,-
+30,21907,KON 436E,Int.to Nonlinear Control Syst.,Virtual (Online),Emre Dincel,EEB,Thursday,08:30/11:29,--,85,82,-,"EEE_LS, KOM_LS, KOME_LS, MKN_LS, ROS_LS, ROSE_LS",Detail,-
+31,21909,KON 442E,Introduction to Learning based Control Systems,Physical (Face to face),Kemal Uçak,EEB,Wednesday,08:30/11:29,2106,60,51,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
+32,21928,KON 4901,Kontrol&Otom. Müh.Tasarımı I,Physical (Face to face),Mehmet Turan Söylemez,-,-,-/-,-,200,18,-,KOM_LS,Detail,Detail
+33,21929,KON 4901E,Contr.&Automation Eng.Design I,Physical (Face to face),Mehmet Turan Söylemez,-,-,-/-,-,200,17,-,"KOM_LS, KOME_LS",Detail,Detail
+34,21931,KON 4902,Kontrol&Otom. Müh.Tasarımı II,Physical (Face to face),Mehmet Turan Söylemez,-,-,-/-,-,200,46,-,KOM_LS,Detail,-
+35,21933,KON 4902E,Contr.&Automation Eng.DesignII,Physical (Face to face),Mehmet Turan Söylemez,-,-,-/-,-,200,60,-,"KOM_LS, KOME_LS",Detail,-
+36,21937,KON 492E,Senior Design Project,Physical (Face to face),Mehmet Turan Söylemez,-,-,-/-,-,50,1,-,"KOM_LS, KOME_LS",-,Detail

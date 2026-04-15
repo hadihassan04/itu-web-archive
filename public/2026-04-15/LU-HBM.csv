@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21278,HBM 510E,Special Topics in Computational Science and Engineering,Physical (Face to face),Mustafa Serdar Çelebi,BEB,Wednesday,09:30/12:29,--,5,3,-,-,-,-
+1,21284,HBM 512,Bilimsel Hesaplama II,Physical (Face to face),Süha Tuna,BEB,Monday,09:30/12:29,--,20,15,-,-,-,-
+2,21189,HBM 526E,Advanced Molecular Modelling,Physical (Face to face),Fethiye Aylin Sungur,BEB,Tuesday,09:30/12:29,--,20,10,-,-,-,-
+3,21307,HBM 537E,Trustworthy and Explainable Mach. Learning in Computational Sci. and Eng.,Physical (Face to face),Gülşen Taşkın Kaya,BEB,Friday,09:30/12:29,--,30,10,-,-,-,-
+4,21185,HBM 539,Uygulamalı Biyoinformatik,Physical (Face to face),Vildan Enisoğlu Atalay,BEB,Thursday,09:30/12:29,--,30,3,-,-,-,-
+5,21292,HBM 596E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Fethiye Aylin Sungur,BEB,Monday,13:30/15:29,--,20,11,-,-,-,-
+6,21280,HBM 615E,Advanced Topics in Computational Science and Engineering,Physical (Face to face),Mustafa Serdar Çelebi,BEB,Friday,09:30/12:29,--,5,2,-,-,-,-
+7,21303,HBM 621E,Chemoinformatics,Virtual (Online),Adem Tekin,Online/Çevrimiçi,Wednesday,09:30/12:29,--,25,9,-,-,-,-
+8,21188,HBM 632E,Hybrid Meth.in Comput.Chemi.,Physical (Face to face),Fethiye Aylin Sungur,BEB,Wednesday,13:30/16:29,--,5,2,-,-,-,-
+9,21288,HBM 696E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Süha Tuna,BEB,Wednesday,15:30/17:29,--,20,2,-,-,-,-
+10,21296,HBM 801,Temel Bilişim Yazılımları,Physical (Face to face),Adem Tekin,BEB,Thursday,09:30/12:29,--,25,10,-,-,-,-
+11,21300,HBM 803E,Object Orient.Prog.Techn.,Physical (Face to face),Adem Tekin,BEB,Thursday,13:30/16:29,--,25,11,-,-,-,-
+12,21312,HBM DRT,Tez Çalışması,Physical (Face to face),Adem Tekin,-,-,-/-,-,200,7,-,-,-,-
+13,21315,HBM YET,Yeterlik Aşaması,Physical (Face to face),Adem Tekin,-,-,-/-,-,200,2,-,-,-,-
+14,21310,HBM YLT,Tez Çalışması,Physical (Face to face),Adem Tekin,-,-,-/-,-,200,6,-,-,-,-

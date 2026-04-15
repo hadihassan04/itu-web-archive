@@ -1,0 +1,13 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21114,DEP 506,Sünek Çelik Yapı Sist. Tasarm.,Physical (Face to face),Barlas Özden Çağlayan,INB,Friday,09:30/12:29,ÇELİK_YAP.,20,11,-,-,-,-
+1,21109,DEP 508E,Structural Earthquake Eng.,Physical (Face to face),"Kadir Güler , Zeynep Değer",INB,Monday,13:30/16:29,B102,40,18,-,-,-,-
+2,21112,DEP 514E,Seismic Hazard Assesment,Physical (Face to face),"Yasin Fahjan , Ali Sarı",INB,Tuesday,09:30/12:29,YAPISMNR_A,20,19,-,-,-,-
+3,21113,DEP 515E,Perfor.-Based Seis.Asse.&Des.,Physical (Face to face),Reşat Atalay Oyguç,DEP,Monday,09:30/12:29,--,10,5,-,-,-,-
+4,21128,DEP 518E,Response Con.of Str.with Damp.,Physical (Face to face),Fatih Sütcü,INB,Friday,09:30/12:29,A2,20,10,-,-,-,-
+5,21125,DEP 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Ali Yeşilyurt,DEP,Friday,14:30/16:29,--,20,6,-,-,-,-
+6,25441,DEP 596E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Ercan Yüksel,DEP,Thursday,14:30/16:29,--,20,2,-,-,-,-
+7,21127,DEP 606E,Earthqu.Respon.Anal.of St.,Physical (Face to face),Reşat Atalay Oyguç,DEP,Thursday,09:30/12:29,--,10,3,-,-,-,-
+8,21126,DEP 696E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Ali Yeşilyurt,DEP,Wednesday,15:30/17:29,--,20,1,DEP_DM_DR/20/1 | Diğer/0/0,DEP_DM_DR,-,-
+9,21130,DEP DRT,Tez Çalışması,Physical (Face to face),Ali Yeşilyurt,-,-,-/-,-,200,14,-,-,-,-
+10,21131,DEP YET,Yeterlik Aşaması,Physical (Face to face),Ali Yeşilyurt,-,-,-/-,-,200,2,-,-,-,-
+11,21129,DEP YLT,Tez Çalışması,Physical (Face to face),Ali Yeşilyurt,-,-,-/-,-,200,21,-,-,-,-
